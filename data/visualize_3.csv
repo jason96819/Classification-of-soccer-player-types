@@ -1,0 +1,608 @@
+Column1,Unnamed: 0,클럽명,선수명,출전 경기,득점,도움,공격 지역 패스,중앙 지역 패스,수비 지역 패스,태클,클리어링,인터셉트,차단,획득,블락,SHO,DRI,PHY,LOP,SHP,TAK,Position,Role,Detailed Role,url
+0,0,강원,갈레고,4,3,0,46,36,9,10,3,6,6,24,8,64,44,33,84,81,30,FW,WF,Wide Threat,
+1,1,강원,김대우,6,1,0,42,97,28,13,9,14,14,39,15,33,33,41,74,75,8,MF,CAM,Box crasher,https://www.youtube.com/watch?v=1m5mHXycxEw
+2,2,강원,김대원,36,12,13,510,430,112,83,22,35,29,200,45,56,43,33,81,80,23,FW,WF,Wide Threat,https://www.youtube.com/watch?v=k8XoK69onew
+3,3,강원,김동현,32,0,1,188,865,189,73,116,100,74,215,96,29,43,64,85,86,29,MF,CAM,Box crasher,https://www.youtube.com/watch?v=hJF8LffJuJ0
+4,4,강원,코바야시,7,0,1,90,249,42,19,10,22,14,74,18,33,20,39,79,85,32,MF,CDM,Box to Box,
+5,5,강원,정승용,38,2,1,428,782,341,104,152,122,81,211,99,64,38,57,69,86,41,DF,FB,Safety,https://www.youtube.com/watch?v=JfpuYkuWNQo
+6,6,강원,임창우,38,2,1,163,1066,427,78,254,160,102,110,108,52,50,62,76,89,37,DF,FB,Progressor,https://www.youtube.com/watch?v=_QDXCbnNKag
+7,7,강원,김영빈,38,4,0,44,887,499,47,264,157,73,134,107,47,0,57,90,88,34,DF,CB,Spreader,https://www.youtube.com/watch?v=8_IpFIa8GXI
+8,8,강원,이정협,21,5,1,220,295,30,7,14,13,2,76,14,63,20,44,66,73,0,FW,CF,Roamer,https://www.youtube.com/watch?v=vV30p-pUMhc
+9,9,강원,김진호,25,3,2,287,528,118,50,69,58,41,123,57,50,52,44,72,89,38,DF,FB,Safety,https://www.youtube.com/watch?v=rgtGu-91PxM
+10,10,강원,한국영,3,0,0,18,101,12,11,7,8,5,17,9,0,0,71,85,91,36,MF,CAM,Box crasher,
+11,11,강원,이웅희,2,0,0,1,50,19,0,18,12,5,8,13,0,0,76,80,86,0,MF,CAM,Box crasher,
+12,12,강원,디노,2,2,0,25,52,1,7,6,3,2,13,1,50,0,47,78,64,29,FW,CF,Roamer,
+13,13,강원,윤석영,31,1,2,63,779,308,32,183,117,52,93,76,50,67,47,84,90,34,DF,CB,SCB,https://www.youtube.com/watch?v=n6Hrtb31f0U
+14,14,강원,유상훈,37,0,0,0,5,760,1,41,148,3,56,6,0,0,100,34,100,100,GK,GK,Goalkeeper,https://www.youtube.com/watch?v=hjT_ZIIOGWc
+15,15,강원,케빈,11,1,0,51,347,86,25,26,32,34,59,23,57,30,45,86,86,40,MF,CAM,Box crasher,https://www.youtube.com/watch?v=dVYklmAftxQ
+16,16,강원,발샤,6,2,0,38,78,3,7,6,4,3,19,3,76,45,32,56,76,14,FW,CF,Finisher,https://www.youtube.com/watch?v=o2YJ-fwPJH0
+17,17,강원,서민우,32,0,1,149,776,313,109,96,113,117,199,78,55,0,52,88,86,32,MF,CAM,Box crasher,https://www.youtube.com/watch?v=2IC5NzLjrcQ
+18,18,강원,강지훈,10,0,1,79,199,48,24,22,23,22,41,22,40,27,48,70,82,12,DF,FB,Safety,https://www.youtube.com/watch?v=oEN1qw8mKFk
+19,19,강원,양현준,32,8,4,346,369,92,67,20,32,31,143,37,37,54,35,75,79,42,FW,WF,Wide Threat,https://www.youtube.com/watch?v=dFtn4ogaRGo
+20,20,강원,황문기,13,3,0,123,258,56,36,23,29,23,111,18,48,33,43,72,77,33,MF,CDM,Builder,https://www.youtube.com/watch?v=2Qjqxpw9ftc
+21,21,경남,모재현,28,6,6,243,348,67,46,20,44,34,157,34,62,44,42,77,81,46,FW,WF,Wide Threat,https://www.youtube.com/watch?v=Mw6tc1aJV5w
+22,22,경남,서재원,5,1,0,22,31,9,7,9,8,10,26,16,57,29,31,62,74,14,MF,CDM,Builder,
+23,23,경남,김명준,31,1,1,16,1007,855,46,243,127,61,69,88,50,67,68,85,92,46,DF,CB,Aggressor,https://www.youtube.com/watch?v=lJNPpUMjjeQ
+24,24,경남,설현진,4,0,0,26,66,24,11,8,9,5,30,7,67,0,51,67,76,27,FW,WF,Wide Threat,
+25,25,경남,정충근,13,3,1,90,153,23,24,14,27,21,75,33,74,33,39,70,81,46,FW,CF,Finisher,https://www.youtube.com/watch?v=zI9zwaugMu4
+26,26,경남,김범용,16,0,0,121,582,174,46,59,87,38,125,49,38,100,49,77,90,37,MF,CAM,Creator,https://www.youtube.com/watch?v=XjiwC4NGWFU
+27,27,경남,손정현,24,0,0,0,6,638,1,16,101,1,45,4,0,0,0,62,100,100,GK,GK,Goalkeeper,https://www.youtube.com/watch?v=oDOKG81S_og
+28,28,경남,박재환,27,2,0,21,635,513,21,226,89,35,64,65,43,0,69,86,93,29,DF,CB,Spreader,https://www.youtube.com/watch?v=jsZoU5AdqLY
+29,29,경남,김세윤,2,0,2,7,50,11,7,2,10,6,12,7,0,0,33,93,85,0,MF,CAM,Box crasher,
+30,30,경남,김영찬,17,1,0,5,580,341,11,118,75,17,52,45,80,0,65,90,91,36,DF,CB,Aggressor,https://www.youtube.com/watch?v=zgWH3ElUD-M
+31,31,경남,김종필,4,0,0,7,116,60,6,23,19,9,17,16,33,0,58,77,95,33,DF,CB,SCB,
+32,32,경남,이준재,20,1,1,197,405,209,48,108,57,38,85,60,57,49,56,76,83,67,DF,FB,Safety,https://www.youtube.com/watch?v=2682lwR3Qls
+33,33,경남,에르난데스,25,12,8,251,320,37,33,28,23,22,137,24,56,32,41,82,79,52,FW,CF,Roamer,https://www.youtube.com/watch?v=Bwq9LEvaWtw
+34,34,경남,박민서,16,3,2,143,228,65,51,20,34,26,111,25,49,32,42,62,70,35,MF,CDM,Builder,https://www.youtube.com/watch?v=wiOsbU65vP8
+35,35,경남,이재명,8,0,1,73,186,93,12,18,24,15,38,18,0,25,48,82,91,42,DF,FB,Safety,https://www.youtube.com/watch?v=w5rS_SNUASE
+36,36,경남,엘리아르도,4,0,1,26,43,1,5,2,3,3,12,1,25,0,33,64,62,20,FW,CF,Finisher,
+37,37,경남,카스트로,8,1,0,45,140,31,14,15,16,22,70,17,42,0,45,78,76,71,MF,CAM,Box crasher,https://www.youtube.com/watch?v=6CNK1ZtMjMg
+38,38,경남,이광진,32,2,8,162,1328,364,91,80,164,76,272,81,70,37,61,82,85,37,MF,CAM,Creator,https://www.youtube.com/watch?v=TFROJ4WJ_r0
+39,39,경남,이광선,8,0,0,23,134,130,4,68,28,13,16,19,100,0,67,83,86,25,DF,CB,Spreader,https://www.youtube.com/watch?v=sLy8SrV2NaM
+40,40,경남,박광일,17,0,6,163,474,167,27,45,44,23,86,26,100,40,41,81,88,56,DF,FB,Safety,https://www.youtube.com/watch?v=TJXeOyruIWM
+41,41,경남,우주성,9,0,0,64,282,113,19,37,38,16,36,19,50,50,54,76,85,32,DF,FB,Progressor,https://www.youtube.com/watch?v=qzbB1jd_OzM
+42,42,경남,이우혁,28,0,1,101,1092,328,59,86,110,58,179,92,44,50,48,85,88,42,MF,CAM,Creator,https://www.youtube.com/watch?v=Sx6l0yxxlnA
+43,43,경남,이지승,12,0,0,79,338,92,32,38,56,27,105,28,56,0,42,80,89,22,MF,CAM,Box crasher,https://www.youtube.com/watch?v=XjiwC4NGWFU
+44,44,경남,하남,10,2,0,58,79,12,18,12,1,14,40,9,67,40,45,62,72,39,FW,CF,Finisher,https://www.youtube.com/watch?v=X3C01I8D0EQ
+45,45,경남,티아고93,32,19,3,200,361,22,40,22,25,23,116,38,51,19,46,72,71,40,FW,CF,Finisher,https://www.youtube.com/watch?v=XGt3mNRYIQg
+46,46,경남,고경민,18,4,1,164,242,38,28,11,20,24,103,19,57,28,44,71,76,25,FW,CF,Roamer,https://www.youtube.com/watch?v=k5I_XZMl_h4
+47,47,경남,고동민,19,0,0,0,5,571,1,30,66,1,36,4,0,0,100,62,99,100,GK,GK,Goalkeeper,https://www.youtube.com/watch?v=3TkNTyrgyzE
+48,48,광주,이으뜸,23,2,9,323,403,134,38,73,53,26,101,46,38,42,52,74,84,32,DF,FB,Safety,https://www.youtube.com/watch?v=GsfkFSbTj-4
+49,49,광주,이건희,8,6,1,103,121,8,7,8,2,6,38,6,39,40,47,73,68,57,FW,CF,Target,https://www.youtube.com/watch?v=85gc0l1y40s
+50,50,광주,김승우,3,0,0,6,103,28,5,28,12,10,8,10,0,0,38,87,89,20,MF,CAM,Box crasher,
+51,51,광주,이민기93,17,1,1,235,382,119,27,50,55,43,81,35,45,56,60,67,83,41,DF,FB,Safety,https://www.youtube.com/watch?v=wPaj69BEnao
+52,52,광주,이상기,18,1,1,218,304,119,33,58,39,27,58,45,56,43,55,79,83,30,DF,FB,Safety,https://www.youtube.com/watch?v=olf4dtzzgCY
+53,53,광주,이순민,28,2,0,218,1306,278,78,102,118,65,212,87,52,53,65,88,88,38,MF,CAM,Creator,https://www.youtube.com/watch?v=tMN83e9xoXg
+54,54,광주,정호연,30,1,4,376,1220,224,84,56,74,58,245,58,48,68,60,90,91,31,MF,CAM,Creator,https://www.youtube.com/watch?v=b3db-463Lt0
+55,55,광주,이준,5,0,0,0,1,114,0,7,19,0,8,0,0,0,0,54,100,0,GK,GK,Goalkeeper,https://www.youtube.com/watch?v=LaGJ7YtpxAQ
+56,56,광주,하승운,13,2,4,177,216,30,25,2,9,9,67,12,76,67,43,91,86,36,FW,WF,Wide Threat,https://www.youtube.com/watch?v=6FUy3CrVu2w
+57,57,광주,김종우,10,3,1,137,446,56,31,14,25,34,70,22,60,50,52,90,87,45,MF,CDM,Distributor,https://www.youtube.com/watch?v=2uB9STxGlVc
+58,58,광주,김재봉,27,0,0,26,761,548,33,173,116,54,77,55,29,50,59,86,93,39,DF,CB,Aggressor,https://www.youtube.com/watch?v=078VG1DTCTM
+59,59,광주,이희균,10,0,0,136,430,84,44,14,35,20,92,19,55,67,39,88,87,32,MF,CAM,Creator,https://www.youtube.com/watch?v=SDk_meqN0ZE
+60,60,광주,김현훈,20,0,0,58,491,236,33,120,66,44,52,57,67,0,62,85,89,58,DF,CB,Spreader,https://www.youtube.com/watch?v=sXFaDgfte6c
+61,61,광주,마이키,13,4,3,175,199,25,18,9,20,10,82,19,71,70,43,84,86,72,FW,WF,Wide Threat,https://www.youtube.com/watch?v=0SRYVMQ9W54
+62,62,광주,두현석,26,4,2,429,574,204,59,66,67,32,121,36,50,39,45,77,87,36,DF,FB,Safety,https://www.youtube.com/watch?v=o61PwGUJj7o
+63,63,광주,허율,15,6,4,141,159,18,8,20,7,8,61,16,48,31,54,71,71,12,FW,CF,Roamer,https://www.youtube.com/watch?v=8GnnBVUwf3k
+64,64,광주,산드로,15,7,4,164,248,19,15,9,4,7,61,21,47,20,44,85,77,13,FW,CF,Roamer,https://www.youtube.com/watch?v=qV2rTjDgBmo
+65,65,광주,박한빈,34,3,6,150,1182,473,70,88,146,59,192,44,57,50,54,91,91,53,MF,CAM,Creator,https://www.youtube.com/watch?v=yEJENYlPMX0
+66,66,광주,헤이스,35,12,4,536,664,42,82,29,26,50,166,60,58,46,46,86,81,45,FW,WF,Unlocker,https://www.youtube.com/watch?v=CQEvsv5fa-0
+67,67,광주,아론,17,3,1,129,388,174,23,113,65,38,47,48,47,67,58,90,81,39,DF,CB,Spreader,https://www.youtube.com/watch?v=wPaj69BEnao
+68,68,광주,엄지성,22,9,1,276,334,31,40,18,26,37,101,58,57,43,50,73,79,28,FW,WF,Wide Threat,https://www.youtube.com/watch?v=vmgq1cYqjpA
+69,69,광주,안영규,35,1,1,135,1144,418,47,294,168,67,126,112,29,75,72,82,93,47,DF,CB,Spreader,https://www.youtube.com/watch?v=_h4t60jPWLU
+70,70,김천,명준재,6,3,0,100,65,21,9,5,8,9,36,13,100,29,28,79,84,33,FW,WF,Wide Threat,
+71,71,김천,김정훈,7,0,0,0,0,229,0,7,25,1,15,0,0,0,0,83,99,0,GK,GK,Goalkeeper,https://www.youtube.com/watch?v=CVrckeT0-4Y
+72,72,김천,황인재,16,0,0,0,1,519,1,16,83,0,28,2,0,0,0,67,100,100,GK,GK,Goalkeeper,https://www.youtube.com/watch?v=V9pVTHxcZME
+73,73,김천,송주훈,12,0,0,24,427,275,18,68,56,29,39,33,0,33,65,90,91,28,DF,CB,Aggressor,https://www.youtube.com/watch?v=-A9qRR8L6yQ
+74,74,김천,박지수,27,1,1,38,983,764,57,145,110,63,78,69,38,67,65,86,94,44,DF,CB,Aggressor,https://www.youtube.com/watch?v=lAqI2yVmFxk
+75,75,김천,김주성,10,0,0,17,403,237,12,61,44,19,36,39,0,100,64,96,95,50,DF,CB,Aggressor,https://www.youtube.com/watch?v=9ZlNvZBpko0
+76,76,김천,이준석,7,0,1,71,56,21,2,7,9,8,23,8,50,36,33,85,79,0,FW,WF,Wide Threat,
+77,77,김천,김준범,9,2,1,142,253,29,27,8,12,12,48,16,60,38,51,81,83,48,MF,CDM,Box to Box,https://www.youtube.com/watch?v=R6GwTQ4a35o
+78,78,김천,하창래,18,0,0,23,533,441,39,114,85,45,68,56,17,33,58,87,90,31,DF,CB,Aggressor,https://www.youtube.com/watch?v=ZT9mHf2KdcU
+79,79,김천,윤석주,6,0,0,40,387,103,21,16,28,17,50,18,50,0,39,95,92,48,MF,CAM,Creator,https://www.youtube.com/watch?v=uxviINa-B2s
+80,80,김천,이유현,9,0,0,150,367,132,9,22,28,21,43,20,67,50,36,80,93,78,DF,FB,Progressor,https://www.youtube.com/watch?v=0OITGSH8mQE
+81,81,김천,김한길,21,2,2,287,389,113,37,37,30,24,81,37,33,58,46,81,86,32,DF,FB,Safety,https://www.youtube.com/watch?v=fCIfDdSFlNQ
+82,82,김천,박상혁,8,1,0,105,142,21,18,1,14,18,47,18,69,50,28,81,85,6,MF,CDM,Builder,https://www.youtube.com/watch?v=MCtHXxA69-w
+83,83,김천,이영재,32,3,7,445,1047,249,76,19,76,51,251,43,51,56,47,86,87,30,MF,CDM,Distributor,https://www.youtube.com/watch?v=1r0ZrbQ4jCA
+84,84,김천,강윤성,27,0,1,391,717,336,56,70,91,54,136,58,55,60,44,81,89,41,DF,FB,Safety,https://www.youtube.com/watch?v=6P4TxQyPx70
+85,85,김천,문지환,12,0,0,64,508,192,32,32,52,24,65,18,0,0,44,90,92,22,MF,CAM,Creator,https://www.youtube.com/watch?v=BZPL3-3rIQg
+86,86,김천,유인수,22,3,0,314,615,191,46,80,55,43,107,62,54,40,50,83,89,30,DF,FB,Safety,https://www.youtube.com/watch?v=IAJhkjRMCrk
+87,87,김천,고승범,21,0,2,360,727,140,70,24,41,36,151,28,57,40,41,89,87,33,MF,CDM,Distributor,https://www.youtube.com/watch?v=dxq1BngT5g4
+88,88,김천,한찬희,6,0,0,46,214,56,21,12,13,9,40,13,43,0,61,88,83,19,MF,CAM,Creator,https://www.youtube.com/watch?v=PMWhnQy2WsE
+89,89,김천,김지현,22,4,2,229,231,37,29,17,10,15,48,14,53,25,49,84,83,24,FW,CF,Roamer,https://www.youtube.com/watch?v=iT9ojX5J3dE
+90,90,김천,임승겸,9,0,0,10,319,251,12,33,36,17,34,19,50,0,43,92,85,17,DF,CB,Aggressor,https://www.youtube.com/watch?v=hewevQTHYLI
+91,91,김천,권창훈,21,0,2,314,431,92,49,10,23,31,129,30,51,39,44,79,83,24,FW,CF,Target,https://www.youtube.com/watch?v=O1cpGLCOMGE
+92,92,김천,김륜성,2,0,0,21,69,50,5,8,13,3,6,9,0,100,38,86,89,40,DF,FB,Safety,
+93,93,김천,구성윤,15,0,0,0,4,459,0,17,67,0,34,3,0,0,0,62,99,0,GK,GK,Goalkeeper,https://www.youtube.com/watch?v=XPbllHKAUYA
+94,94,김천,김경민97,8,6,2,73,72,14,12,5,5,5,24,11,68,48,32,80,77,25,FW,WF,Wide Threat,https://www.youtube.com/watch?v=MG1ona9jcOA
+95,95,김천,정승현,21,1,0,15,756,437,36,130,85,37,46,66,50,25,63,86,96,28,DF,CB,Aggressor,https://www.youtube.com/watch?v=DYXhpR3ynTs
+96,96,김천,정동윤,7,0,0,113,228,55,13,21,16,12,20,10,67,71,41,74,87,8,DF,FB,Progressor,
+97,97,김포,이규로,15,1,0,89,351,181,37,50,54,28,77,53,86,0,46,66,84,46,DF,FB,Safety,https://www.youtube.com/watch?v=V4wIR-FESHE
+98,98,김포,김종석,31,2,3,236,885,147,60,60,88,34,252,50,53,58,51,87,86,27,MF,CAM,Box crasher,https://www.youtube.com/watch?v=Wi5g0Mjkxjo
+99,99,김포,나성은,10,2,1,81,102,32,26,13,14,13,49,8,25,40,35,77,79,35,FW,WF,Wide Threat,https://www.youtube.com/watch?v=U4Js3LtI5HY&t=4s
+100,100,김포,박준희,11,0,0,21,230,105,15,70,40,22,27,33,50,0,48,63,90,53,DF,CB,SCB,https://www.youtube.com/watch?v=o1FKN90SAXQ
+101,101,김포,정의찬,12,0,2,107,84,24,22,2,8,12,62,16,56,53,35,69,71,23,FW,CF,Roamer,https://www.youtube.com/watch?v=644OuuSTOEY&t=1s
+102,102,김포,이중호,3,0,0,27,65,28,7,19,8,9,19,6,100,50,65,60,75,29,DF,FB,Safety,
+103,103,김포,박재우,7,1,0,92,129,53,15,23,21,14,38,20,100,20,32,54,82,67,DF,FB,Safety,
+104,104,김포,이상욱,31,0,0,0,6,872,0,31,141,0,53,7,0,0,0,41,98,0,GK,GK,Swiper goalkeeper,https://www.youtube.com/watch?v=FrwN0pIcGSk
+105,105,김포,손석용,32,8,7,209,228,34,61,18,27,35,128,35,60,21,30,80,70,13,FW,WF,Wide Threat,https://www.youtube.com/watch?v=4iGAqxyVtP4
+106,106,김포,박경록,32,0,1,54,684,283,54,228,145,60,130,108,44,100,62,75,83,44,DF,CB,Spreader,https://www.youtube.com/watch?v=U4Js3LtI5HY
+107,107,김포,윤민호,29,8,2,221,332,23,28,8,14,15,115,28,60,34,37,84,77,54,FW,CF,Finisher,https://www.youtube.com/watch?v=Btnq3LTt-UY
+108,108,김포,김이석,23,2,0,117,549,112,82,58,67,72,180,77,54,40,44,77,82,23,MF,CAM,Box crasher,https://www.youtube.com/watch?v=UfbFeURapnI
+109,109,김포,권민재,7,1,2,63,104,21,19,3,7,10,49,14,55,0,20,89,86,32,FW,WF,Wide Threat,https://www.youtube.com/watch?v=GerTW-vqqdc
+110,110,김포,김종민,19,2,0,12,352,201,31,121,77,33,66,45,60,0,57,72,85,35,DF,CB,Spreader,https://www.youtube.com/watch?v=k55GN18POYg
+111,111,김포,박대한,27,1,0,234,596,173,39,96,76,49,143,56,54,48,44,67,82,15,DF,FB,Safety,https://www.youtube.com/watch?v=USRpFXYORNA
+112,112,김포,최재훈,26,1,0,146,629,152,91,60,95,78,226,63,56,31,45,81,78,26,MF,CAM,Box crasher,https://www.youtube.com/watch?v=644OuuSTOEY
+113,113,김포,양준아,11,2,1,57,304,103,23,43,50,10,72,27,88,50,70,73,82,74,DF,CB,SCB,https://www.youtube.com/watch?v=TilnH_JDwg4
+114,114,김포,한정우,10,1,2,101,152,67,26,23,20,21,59,30,29,30,32,62,86,27,DF,FB,Safety,https://www.youtube.com/watch?v=6kEVhMfyTsE
+115,115,김포,김수범,23,0,3,305,603,181,53,65,86,45,131,44,56,53,44,77,86,34,DF,FB,Safety,https://www.youtube.com/watch?v=JaRtl0ZeE-M
+116,116,김포,조향기,14,3,1,131,223,16,10,20,11,3,61,14,47,0,40,72,69,30,FW,CF,Roamer,https://www.youtube.com/watch?v=yh1QnWlKj_I
+117,117,김포,윤상혁,8,0,0,60,191,67,24,35,32,26,39,17,0,50,54,70,82,21,DF,FB,Safety,https://www.youtube.com/watch?v=wqjdTEdM4Tg
+118,118,김포,황도연,5,0,0,0,71,82,6,23,15,9,14,10,0,0,54,93,87,50,DF,CB,SCB,https://www.youtube.com/watch?v=QavGHamR36w
+119,119,김포,유리치치,2,0,0,29,29,2,7,4,2,3,16,5,20,0,47,42,51,14,FW,CF,Target,
+120,120,김포,최민서,3,0,0,14,25,3,3,1,1,4,22,5,60,0,30,78,70,0,FW,CF,Finisher,
+121,121,김포,이성재,4,0,0,28,121,13,14,7,11,11,43,15,50,100,56,91,77,43,MF,CAM,Box crasher,
+122,122,김포,마루오카,3,0,0,41,51,8,12,5,7,4,17,7,67,0,40,74,88,42,MF,CDM,Builder,
+123,123,김포,구본상,5,1,0,59,140,24,12,12,9,15,52,16,67,0,51,84,90,33,MF,CDM,Box to Box,
+124,124,김포,이강연,20,1,0,31,452,204,48,120,89,36,90,44,40,33,56,82,90,17,DF,CB,SCB,https://www.youtube.com/watch?v=T8Jt4bhZpq4
+125,125,김포,최봉진,11,0,0,0,3,321,1,20,61,2,21,3,0,0,0,38,100,100,GK,GK,Swiper goalkeeper,https://www.youtube.com/watch?v=Vwr4UluYHlY
+126,126,김포,김태한,29,1,1,45,579,392,34,295,176,69,129,78,17,0,61,74,82,50,DF,CB,Spreader,https://www.youtube.com/watch?v=kv5b0AFKUfg&t=1s
+127,127,대구,에드가,3,1,0,37,59,2,2,9,1,5,16,1,38,0,54,77,76,50,FW,CF,Roamer,
+128,128,대구,오승훈,38,0,1,1,12,913,1,28,174,1,52,5,0,0,100,52,98,100,GK,GK,Goalkeeper,https://www.youtube.com/watch?v=l2W9X8SSlm4
+129,129,대구,김희승,7,0,0,52,152,24,35,14,23,23,56,14,83,0,68,83,78,17,MF,CAM,Box crasher,https://www.youtube.com/watch?v=r82XMiQJLoA
+130,130,대구,홍철,23,0,1,190,416,232,39,75,79,44,113,51,40,46,49,70,85,44,DF,FB,Safety,https://www.youtube.com/watch?v=CUFPK8knTk0
+131,131,대구,안용우,5,2,2,66,100,27,7,11,12,7,21,6,75,86,35,79,87,43,FW,WF,Unlocker,https://www.youtube.com/watch?v=DsN7DV2IBzc
+132,132,대구,박병현,8,0,0,2,137,77,17,41,22,22,23,31,100,50,56,79,93,47,DF,CB,SCB,https://www.youtube.com/watch?v=8SB7SXpLVMw
+133,133,대구,김진혁,26,2,1,66,457,256,45,147,88,50,93,73,24,0,58,77,83,38,DF,CB,Spreader,https://www.youtube.com/watch?v=AT9kNTyTlG4
+134,134,대구,홍정운,24,2,0,22,338,264,44,157,113,74,64,73,50,0,62,87,91,36,DF,CB,SCB,https://www.youtube.com/watch?v=ie6yZcA4sZ4
+135,135,대구,고재현,28,13,2,164,158,64,43,16,27,24,119,38,72,33,35,77,73,35,FW,CF,Finisher,https://www.youtube.com/watch?v=pOfqfdMdJrU
+136,136,대구,오후성,2,1,0,32,30,0,10,0,3,5,14,0,100,62,22,80,81,30,FW,WF,Wide Threat,
+137,137,대구,정치인,5,0,0,60,46,7,10,6,7,10,15,5,69,33,25,78,73,10,FW,WF,Wide Threat,https://www.youtube.com/watch?v=un_yqEAKRjY
+138,138,대구,장성원,11,0,2,125,147,92,35,27,20,34,35,26,50,46,55,79,82,40,DF,FB,Safety,https://www.youtube.com/watch?v=D-OwkItxDj0
+139,139,대구,페냐,9,1,1,89,245,36,28,12,15,12,61,10,56,42,51,72,76,14,MF,CDM,Box to Box,https://www.youtube.com/watch?v=9AOGDa51D_s
+140,140,대구,조진우,24,2,1,24,408,309,42,149,99,48,74,75,44,0,64,84,91,43,DF,CB,SCB,https://www.youtube.com/watch?v=MUjMexzlfmY
+141,141,대구,이태희,19,0,1,80,127,329,16,35,47,20,57,15,71,50,62,52,88,38,DF,FB,Safety,https://www.youtube.com/watch?v=2LsxwHchbPM
+142,142,대구,정태욱,36,1,1,85,599,372,46,261,160,68,122,94,44,40,72,80,85,46,DF,CB,SCB,https://www.youtube.com/watch?v=nH3RCo1MTQ0
+143,143,대구,케이타,15,0,0,129,251,107,48,41,46,57,83,59,100,40,33,71,85,40,DF,FB,Safety,https://www.youtube.com/watch?v=s6XD_mUrN1g
+144,144,대구,김우석,5,0,1,13,77,68,6,19,28,14,25,13,33,0,42,72,78,33,DF,CB,SCB,https://www.youtube.com/watch?v=yhANdEa7r8Q
+145,145,대구,황재원,32,1,3,316,521,201,69,76,105,68,180,68,50,57,48,69,84,32,DF,FB,Safety,https://www.youtube.com/watch?v=saH0enrzors
+146,146,대구,라마스,31,5,1,386,869,162,59,14,45,45,206,38,48,35,41,79,81,29,FW,WF,Unlocker,https://www.youtube.com/watch?v=VEUOxuW8AGw
+147,147,대구,이용래,15,0,1,61,346,64,47,32,46,15,78,22,50,0,23,83,91,19,MF,CAM,Box crasher,https://www.youtube.com/watch?v=ZIc26QhdMeo
+148,148,대구,이진용,28,0,0,123,469,122,120,49,77,89,190,65,27,14,53,79,80,27,MF,CAM,Box crasher,https://www.youtube.com/watch?v=gRim-pxsfNU
+149,149,대구,이근호,10,2,0,101,97,22,15,15,10,12,41,24,38,22,39,54,68,27,FW,WF,Wide Threat,https://www.youtube.com/watch?v=rYcu7a3iD-8
+150,150,대구,세징야,28,12,6,361,609,29,51,9,26,13,137,24,58,46,32,82,79,29,FW,WF,Wide Threat,https://www.youtube.com/watch?v=_hX9fcoiLNU
+151,151,대구,제카,27,7,7,285,286,13,52,25,16,26,98,20,44,42,53,64,67,27,FW,CF,Roamer,https://www.youtube.com/watch?v=cqYAoHX4YBQ
+152,152,대전,레안드로,27,9,5,473,380,51,33,19,29,12,126,16,70,62,35,85,80,42,FW,WF,Wide Threat,https://www.youtube.com/watch?v=xEsc7MuaWpE
+153,153,대전,조유민,34,6,0,75,1032,599,82,269,221,61,113,96,60,33,72,82,91,44,DF,CB,Spreader,https://www.youtube.com/watch?v=_bjeGThhSCE
+154,154,대전,마사,22,10,4,260,303,47,62,9,21,36,133,37,63,44,40,76,80,34,FW,CF,Roamer,https://www.youtube.com/watch?v=apnpvdMczqc
+155,155,대전,원기종,14,3,3,176,123,15,17,9,9,5,52,17,50,37,43,63,74,53,FW,WF,Wide Threat,https://www.youtube.com/watch?v=LyGm3HVt9A0
+156,156,대전,민준영,22,1,1,254,545,180,69,92,69,67,117,69,42,50,47,70,89,29,DF,FB,Safety,https://www.youtube.com/watch?v=HPEG8X-9Na8
+157,157,대전,윌리안,23,13,5,202,197,16,44,2,24,30,106,27,62,52,33,79,76,41,FW,CF,Roamer,https://www.youtube.com/watch?v=tmjfbd3eBKI
+158,158,대전,임은수,18,1,1,81,602,167,39,79,69,37,97,55,45,0,52,86,91,44,MF,CAM,Creator,https://www.youtube.com/watch?v=wKnrOQ5WXSU
+159,159,대전,김재우,12,1,0,14,282,180,20,66,57,34,27,37,75,0,67,79,87,40,DF,CB,Spreader,https://www.youtube.com/watch?v=8__ZZ-b7iik
+160,160,대전,변준수,14,0,1,34,451,180,18,135,80,30,53,36,17,0,59,85,91,33,DF,CB,Spreader,https://www.youtube.com/watch?v=FsPw8GQ8sRc
+161,161,대전,김선호,2,0,0,36,75,18,2,5,5,7,14,7,100,67,35,84,88,50,FW,WF,Unlocker,
+162,162,대전,임덕근,26,2,4,213,854,228,60,111,107,49,164,87,50,35,62,85,85,48,MF,CAM,Creator,https://www.youtube.com/watch?v=zH0YsEMt4kU
+163,163,대전,권한진,9,0,0,9,163,120,11,78,16,9,26,29,0,0,62,92,89,45,DF,CB,SCB,https://www.youtube.com/watch?v=zVqHEGmK_2U
+164,164,대전,김승섭,16,5,3,199,96,33,8,7,16,9,84,12,63,34,37,84,83,38,FW,WF,Wide Threat,https://www.youtube.com/watch?v=PeHpCg7Q5dM
+165,165,대전,이현식,22,1,4,336,471,108,76,26,55,52,192,42,62,36,51,85,84,28,FW,CF,Target,https://www.youtube.com/watch?v=oH8pnc3x55Q
+166,166,대전,서영재,11,0,1,118,328,78,19,30,37,12,38,20,62,27,36,78,89,37,DF,FB,Safety,https://www.youtube.com/watch?v=td6IEpOEzcw
+167,167,대전,김영욱,10,0,1,155,299,76,23,26,24,23,69,20,17,60,48,78,86,39,DF,FB,Safety,https://www.youtube.com/watch?v=jVrG3RYNh-g
+168,168,대전,포파,4,0,0,48,50,4,6,4,5,2,25,9,80,50,48,47,67,0,FW,CF,Roamer,
+169,169,대전,이창근,32,0,0,1,12,895,0,38,137,2,55,6,0,0,100,56,99,0,GK,GK,Swiper goalkeeper,https://www.youtube.com/watch?v=5YxqA6ENSWk
+170,170,대전,김인균,19,6,2,199,263,60,34,29,32,24,100,18,61,29,47,72,81,35,FW,WF,Wide Threat,https://www.youtube.com/watch?v=UVZC38tvx4Q
+171,171,대전,이진현,21,4,5,282,724,114,71,26,37,41,171,42,62,36,38,83,82,30,MF,CDM,Box to Box,https://www.youtube.com/watch?v=fTDOP11EGGo
+172,172,대전,송창석,2,1,0,16,20,2,1,3,0,2,6,0,100,100,29,67,57,0,FW,CF,Roamer,
+173,173,대전,주세종,13,0,3,132,700,186,20,19,58,28,137,18,57,0,64,81,83,40,MF,CAM,Creator,https://www.youtube.com/watch?v=XPOsdKrp6Y8
+174,174,대전,신상은,2,1,1,14,15,3,2,2,2,2,7,2,50,33,29,89,57,0,FW,WF,Wide Threat,
+175,175,대전,김민덕,32,0,0,62,693,450,47,214,121,67,120,73,40,27,63,86,90,45,DF,CB,SCB,https://www.youtube.com/watch?v=xw5KGWxSkYQ
+176,176,대전,이준서,9,0,0,0,1,274,0,9,46,0,13,1,0,0,0,59,100,0,GK,GK,Goalkeeper,https://www.youtube.com/watch?v=F0pY204uV9g
+177,177,대전,카이저,9,4,1,58,92,12,6,11,7,5,21,4,65,57,35,78,74,33,FW,CF,Finisher,https://www.youtube.com/watch?v=4l2ZR-D0us4
+178,178,대전,공민현,16,5,3,174,218,15,34,9,15,16,56,8,61,25,38,69,79,29,FW,CF,Roamer,https://www.youtube.com/watch?v=yxy7AVggOa0
+179,179,대전,배준호,3,1,0,33,47,5,14,4,3,6,15,8,50,33,26,83,89,36,FW,CF,Roamer,
+180,180,대전,이종현,22,1,1,248,547,136,32,66,58,42,110,43,59,52,49,70,90,38,DF,FB,Safety,https://www.youtube.com/watch?v=6M7XKfBIhS4
+181,181,부산,홍욱현,9,0,1,7,223,172,17,46,38,19,31,23,50,0,45,84,88,47,DF,CB,SCB,https://www.youtube.com/watch?v=zdgmMaleuTI
+182,182,부산,박세진,26,1,4,211,490,138,42,68,52,52,63,38,56,13,37,78,86,33,FW,WF,Unlocker,https://www.youtube.com/watch?v=v9BWcTF5nEw
+183,183,부산,에드워즈,28,0,3,166,579,156,79,61,92,58,206,60,67,44,33,81,84,23,MF,CAM,Box crasher,https://www.youtube.com/watch?v=Jor6mweaFxE
+184,184,부산,안준수,17,0,0,0,15,619,1,27,82,1,32,5,0,0,100,63,98,100,GK,GK,Swiper goalkeeper,https://www.youtube.com/watch?v=VPlgFTssIQ8
+185,185,부산,발렌티노스,24,2,0,25,677,401,19,212,100,30,60,61,56,0,65,86,90,42,DF,CB,Aggressor,https://www.youtube.com/watch?v=QanHPprHTIs
+186,186,부산,황병근,8,0,0,0,1,293,0,4,33,0,14,1,0,0,0,59,100,0,GK,GK,Swiper goalkeeper,https://www.youtube.com/watch?v=-TgP00eMB90
+187,187,부산,권혁규,18,0,1,74,633,188,67,47,77,48,105,67,56,67,56,86,89,34,MF,CAM,Creator,https://www.youtube.com/watch?v=q7VFq825S18
+188,188,부산,박정인,18,6,1,145,201,39,28,24,12,14,73,26,57,50,35,77,77,21,FW,CF,Finisher,https://www.youtube.com/watch?v=MNmm4bKe1zY
+189,189,부산,박종우,22,0,2,94,687,202,60,84,59,61,120,57,33,33,54,81,83,25,MF,CAM,Creator,https://www.youtube.com/watch?v=sJ2AEHXmVmU
+190,190,부산,성호영,7,1,0,72,128,33,32,7,11,29,35,17,75,20,31,89,81,47,DF,CB,SCB,https://www.youtube.com/watch?v=s6Az-aPoVdE
+191,191,부산,최예훈,5,0,0,46,101,34,7,5,15,10,14,16,0,80,32,86,88,29,DF,FB,Safety,https://www.youtube.com/watch?v=yOKy0zfIJAw
+192,192,부산,최준,31,0,6,284,644,326,143,139,125,92,158,103,29,53,55,75,81,39,DF,FB,Safety,https://www.youtube.com/watch?v=B2gXPX64QOY
+193,193,부산,황준호,12,1,0,58,202,120,23,56,41,16,39,39,41,0,55,67,74,22,DF,CB,Spreader,https://www.youtube.com/watch?v=L7a4DWhZHXw
+194,194,부산,어정원,21,0,3,218,482,155,51,63,79,44,121,68,52,60,39,82,84,33,DF,FB,Safety,https://www.youtube.com/watch?v=aWMZOY0nJdw
+195,195,부산,김도형,2,0,0,17,59,11,3,3,3,1,14,2,38,33,38,85,82,0,FW,WF,Wide Threat,
+196,196,부산,김찬,14,2,2,110,120,13,17,16,12,5,45,21,47,32,48,65,71,59,FW,CF,Finisher,https://www.youtube.com/watch?v=FeUS6jR0ByM
+197,197,부산,정훈성,2,0,0,22,37,8,12,2,2,1,14,5,40,0,35,95,69,42,FW,CF,Roamer,
+198,198,부산,구현준,6,0,0,59,134,50,6,22,14,10,25,14,33,0,46,76,88,33,DF,FB,Safety,https://www.youtube.com/watch?v=tX8-85RCrUE
+199,199,부산,정원진,16,3,2,171,324,58,40,11,19,12,82,20,68,25,37,82,82,20,FW,WF,Wide Threat,https://www.youtube.com/watch?v=9bh6qOY5AtE
+200,200,부산,이상헌,24,7,3,233,332,76,44,14,28,14,108,40,61,52,33,77,75,23,FW,WF,Wide Threat,https://www.youtube.com/watch?v=JhxDzg7RVKI
+201,201,부산,김동수,4,0,0,4,126,70,12,44,20,15,15,15,0,0,76,87,92,25,DF,CB,Spreader,
+202,202,부산,조위제,22,0,0,15,508,392,46,198,121,50,78,58,20,70,64,85,87,43,DF,CB,SCB,https://www.youtube.com/watch?v=etQdrg2cdHo
+203,203,부산,김정민,10,1,0,73,257,52,29,16,14,15,78,11,64,0,43,86,90,24,MF,CAM,Box crasher,https://www.youtube.com/watch?v=VKxVPIK2eGE
+204,204,부산,구상민,16,0,0,0,8,545,0,12,69,1,20,3,0,0,0,61,99,0,GK,GK,Swiper goalkeeper,https://www.youtube.com/watch?v=gh96l_cCPsk
+205,205,부산,김정현,16,1,0,69,407,128,46,72,88,45,128,64,26,0,65,81,78,35,MF,CAM,Box crasher,https://www.youtube.com/watch?v=ZeUCwLxtH_E
+206,206,부산,이청웅,10,0,0,10,181,111,21,59,34,17,28,22,0,100,49,83,84,29,DF,CB,SCB,https://www.youtube.com/watch?v=hMjXnuaQjGc
+207,207,부산,이태민,10,0,1,63,96,22,17,9,14,19,58,21,62,36,38,68,68,47,FW,WF,Wide Threat,https://www.youtube.com/watch?v=RnxPQrYad1U
+208,208,부산,이강희,12,0,0,83,284,72,40,56,34,21,70,32,29,33,64,86,84,30,MF,CAM,Box crasher,https://www.youtube.com/watch?v=ysi-qxZCeZ4
+209,209,부산,이현준,2,0,0,18,20,2,5,3,2,7,10,4,100,0,29,71,74,20,FW,CF,Finisher,
+210,210,부산,드로젝,13,2,0,147,147,31,43,14,25,25,63,24,71,50,45,78,77,28,FW,WF,Wide Threat,https://www.youtube.com/watch?v=N3cttw-V5wg
+211,211,부산,이한도,28,1,0,28,669,500,27,205,116,49,73,83,14,0,69,86,92,56,DF,CB,Aggressor,https://www.youtube.com/watch?v=pS7JI1U0pw8
+212,212,부천,박창준,21,6,3,247,328,81,78,13,41,43,132,36,56,44,43,80,81,24,MF,CDM,Box to Box,https://www.youtube.com/watch?v=9l0J9Jha2ws
+213,213,부천,이주현,2,0,0,0,2,69,0,1,13,0,4,0,0,0,0,50,100,0,GK,GK,Goalkeeper,
+214,214,부천,감한솔,4,0,0,47,83,30,9,11,15,8,32,10,0,100,31,71,82,33,DF,FB,Safety,https://www.youtube.com/watch?v=yNC7KRB_RW0
+215,215,부천,김준형,29,0,4,268,1304,306,108,69,127,100,298,89,33,46,56,83,85,33,MF,CAM,Creator,https://www.youtube.com/watch?v=TDsgrnEKk6w
+216,216,부천,송홍민,13,2,2,83,512,120,35,56,47,27,109,22,59,0,54,82,87,14,MF,CAM,Creator,https://www.youtube.com/watch?v=-jpSWkonhYs
+217,217,부천,김정호,5,0,0,7,79,100,2,44,21,6,11,11,0,0,67,68,91,0,DF,CB,SCB,https://www.youtube.com/watch?v=sM-rYsrR0uo
+218,218,부천,이풍연,2,0,0,5,60,60,7,16,18,11,13,13,0,0,72,69,87,57,DF,CB,Spreader,
+219,219,부천,조현택,32,6,4,308,635,213,55,121,96,64,147,83,52,39,59,60,80,51,DF,FB,Safety,https://www.youtube.com/watch?v=Vp2jv5l4Mm4
+220,220,부천,최철원,40,0,0,0,5,969,2,53,142,0,74,4,0,0,0,45,99,100,GK,GK,Goalkeeper,https://www.youtube.com/watch?v=i9axy1-X4Us
+221,221,부천,김강산,40,1,2,129,1194,815,76,284,189,103,147,145,47,45,63,83,90,33,DF,FB,Progressor,https://www.youtube.com/watch?v=tnkuDJMog5Y&t=69s
+222,222,부천,안재준,10,4,1,91,77,13,10,8,7,9,32,11,50,25,26,86,79,30,FW,CF,Roamer,https://www.youtube.com/watch?v=cd9ivwn7SBw
+223,223,부천,최병찬,6,0,0,98,193,75,10,19,23,10,26,13,67,43,40,87,90,30,FW,WF,Unlocker,https://www.youtube.com/watch?v=9dWRVLlI_ZI
+224,224,부천,국태정,10,0,0,145,211,86,33,28,30,19,57,36,25,14,35,65,82,21,DF,FB,Safety,https://www.youtube.com/watch?v=JYm3pA-wvmE
+225,225,부천,한지호,21,6,3,295,322,47,27,20,18,20,92,24,50,30,36,74,83,11,FW,WF,Wide Threat,https://www.youtube.com/watch?v=9wfr90E6Ew4
+226,226,부천,오재혁,26,2,3,293,597,137,85,18,35,43,168,30,70,55,40,82,90,38,MF,CDM,Box to Box,https://www.youtube.com/watch?v=gQqh6RiQPgQ
+227,227,부천,이의형,12,2,0,94,120,27,17,26,10,12,50,19,47,44,40,71,73,12,FW,CF,Finisher,https://www.youtube.com/watch?v=F74ZeO8LxPM
+228,228,부천,닐손주니어,41,7,2,58,993,993,110,246,216,113,153,92,64,50,66,86,92,47,DF,CB,SCB,https://www.youtube.com/watch?v=Ps1RTjcdLqI
+229,229,부천,이동희,19,1,0,45,513,339,38,128,98,31,68,66,50,50,61,80,87,29,DF,FB,Safety,https://www.youtube.com/watch?v=cZYDB9GDoSk
+230,230,부천,김호남,31,3,2,312,411,152,42,58,53,55,150,42,50,41,43,74,85,36,DF,FB,Safety,https://www.youtube.com/watch?v=FS2J29SZB74
+231,231,부천,요르만,17,4,0,125,211,23,16,18,14,11,74,20,48,24,40,79,79,31,FW,CF,Finisher,https://www.youtube.com/watch?v=cHNsVP-iDKA
+232,232,부천,은나마니,15,3,2,139,122,16,17,24,11,13,57,22,51,43,43,69,78,59,FW,WF,Wide Threat,https://www.youtube.com/watch?v=z7BWq0ob074
+233,233,부천,조수철,16,2,2,142,686,158,40,27,39,32,133,39,48,33,41,88,92,15,MF,CAM,Creator,https://www.youtube.com/watch?v=ER7mrZhJH6U
+234,234,부천,최재영,8,0,0,99,245,58,24,1,26,20,59,15,86,50,32,86,87,17,MF,CDM,Box to Box,https://www.youtube.com/watch?v=d5nDL9DCe1Y
+235,235,부천,이용혁,20,1,0,14,441,391,45,139,58,53,64,84,33,50,66,79,93,22,DF,CB,Spreader,https://www.youtube.com/watch?v=hV-JoTnJ4vw
+236,236,부천,김규민,5,1,0,55,121,30,5,12,13,12,33,14,50,14,30,69,87,20,DF,FB,Safety,https://www.youtube.com/watch?v=RNnocdgVgJA
+237,237,부천,이시헌,18,4,3,239,353,68,42,13,32,14,125,30,48,22,36,81,82,29,MF,CDM,Box to Box,https://www.youtube.com/watch?v=YgehpNK_pSo
+238,238,서울,일류첸코,23,9,1,282,281,21,32,22,12,12,94,22,61,12,49,70,71,41,FW,CF,Target,https://www.youtube.com/watch?v=9JuBwhQaCpQ
+239,239,서울,이한범,21,1,1,33,1085,655,38,125,125,47,73,54,38,0,70,90,94,34,DF,CB,Aggressor,https://www.youtube.com/watch?v=DEgAaB9j54k
+240,240,서울,조지훈,2,0,0,11,63,75,3,13,8,2,7,3,100,0,64,91,96,33,DF,CB,Aggressor,
+241,241,서울,임민혁,17,0,0,71,101,339,11,11,59,11,35,9,75,0,42,61,87,18,FW,CF,Finisher,https://www.youtube.com/watch?v=vbsuU4qqytA
+242,242,서울,백종범,3,0,0,0,0,122,1,3,10,0,6,0,0,0,0,80,97,100,GK,GK,Goalkeeper,
+243,243,서울,윤종규,33,1,1,500,1230,369,71,52,102,72,153,50,78,38,39,82,90,39,DF,FB,Progressor,https://www.youtube.com/watch?v=9o10nox2A-c
+244,244,서울,팔로세비치,30,5,2,445,958,121,77,23,51,28,207,49,55,44,43,87,86,27,MF,CDM,Box to Box,https://www.youtube.com/watch?v=jr_eI4CFP8M
+245,245,서울,케이지로,5,0,0,72,112,9,13,6,6,10,15,8,43,33,32,89,87,8,FW,CF,Target,https://www.youtube.com/watch?v=hwEgtkSubZ4
+246,246,서울,황인범,6,0,0,147,237,60,11,2,14,5,38,13,71,75,41,85,84,27,FW,WF,Unlocker,https://www.youtube.com/watch?v=59CeTQfn11M
+247,247,서울,오스마르,23,1,0,89,1457,741,34,155,178,55,124,82,20,100,63,91,94,71,DF,CB,Aggressor,https://www.youtube.com/watch?v=NnsFdqz50CY
+248,248,서울,조영욱,32,6,7,414,414,54,50,23,31,19,110,44,50,52,38,82,82,38,FW,WF,Wide Threat,https://www.youtube.com/watch?v=bwE02RPlbRw
+249,249,서울,정한민,9,2,0,133,139,23,22,1,15,9,29,19,59,0,45,87,80,36,FW,CF,Target,https://www.youtube.com/watch?v=ax86ZeLr09s
+250,250,서울,정현철,15,1,0,98,614,155,39,57,60,33,105,42,50,0,61,92,90,28,MF,CAM,Creator,https://www.youtube.com/watch?v=Wv-Rafhm-LM
+251,251,서울,한승규,6,1,0,122,169,37,12,1,9,4,29,8,67,50,48,90,86,42,FW,CF,Target,https://www.youtube.com/watch?v=kIlv6n1agR0
+252,252,서울,양한빈,37,0,0,0,9,1196,0,37,190,1,81,7,0,0,100,81,99,0,GK,GK,Goalkeeper,https://www.youtube.com/watch?v=P5DwakHjDSg&t=184s
+253,253,서울,이태석,17,0,0,199,624,203,24,61,48,28,75,34,27,44,52,78,89,37,DF,FB,Progressor,https://www.youtube.com/watch?v=9JKgUO-NXfs
+254,254,서울,백상훈,4,0,0,38,123,26,12,3,8,14,28,4,100,33,60,85,88,17,MF,CAM,Box crasher,
+255,255,서울,황현수,5,0,0,4,212,159,11,34,39,7,15,18,100,0,59,94,92,73,DF,CB,Aggressor,https://www.youtube.com/watch?v=c3SDCxzxV8E
+256,256,서울,기성용,34,0,1,491,1885,562,52,70,117,50,154,53,46,43,69,91,93,46,MF,CAM,Creator,https://www.youtube.com/watch?v=BbT6Nobqn6o
+257,257,서울,김진야,25,1,1,383,626,197,31,73,77,59,90,45,44,29,39,84,87,32,DF,FB,Safety,https://www.youtube.com/watch?v=fbhV6-yjIrk
+258,258,서울,고요한,6,0,2,116,202,34,9,11,7,7,48,5,100,40,29,86,83,44,MF,CDM,Box to Box,https://www.youtube.com/watch?v=vDQ26ur38kY
+259,259,서울,고광민,4,1,0,45,114,50,3,12,12,6,14,10,67,0,65,78,89,33,DF,FB,Safety,
+260,260,서울,김신진,10,3,0,91,217,91,14,17,18,12,49,31,47,33,44,88,81,43,FW,CF,Roamer,https://www.youtube.com/watch?v=Tmod9Ru9chU
+261,261,서울,박동진,13,3,0,86,107,15,11,11,13,10,19,9,52,0,44,71,75,27,FW,CF,Finisher,https://www.youtube.com/watch?v=UDnO0KFk6jI
+262,262,서울,권성윤,4,0,0,110,98,20,7,4,6,6,19,5,0,20,43,92,94,43,FW,WF,Unlocker,
+263,263,서울,나상호,28,8,4,498,505,62,30,9,16,23,121,38,63,52,37,87,86,40,FW,WF,Wide Threat,https://www.youtube.com/watch?v=DdgH88WH6wU
+264,264,서울,강상희,2,0,0,2,134,79,6,10,18,4,6,4,0,0,33,87,87,17,DF,CB,Aggressor,
+265,265,서울,강성진,20,1,4,339,331,51,27,8,19,15,82,19,54,42,32,78,82,22,FW,WF,Unlocker,https://www.youtube.com/watch?v=yvboZclytcc
+266,266,서울E,황태현,24,2,0,200,661,267,51,106,91,51,135,57,52,14,43,69,77,33,DF,FB,Safety,https://www.youtube.com/watch?v=lxSA8dMxwDg
+267,267,서울E,박준영,4,1,0,26,17,7,13,4,5,6,18,10,50,44,43,67,60,31,FW,CF,Finisher,
+268,268,서울E,김원식,20,0,0,63,401,246,33,88,75,23,107,47,50,100,49,83,82,21,DF,CB,SCB,https://www.youtube.com/watch?v=NUhKcatHpv8
+269,269,서울E,조동재,4,0,0,28,71,30,14,18,8,8,22,10,100,20,60,43,71,14,DF,FB,Safety,
+270,270,서울E,윤보상,38,0,0,0,2,933,2,32,140,0,68,12,0,0,0,56,100,100,GK,GK,Goalkeeper,https://www.youtube.com/watch?v=5fokMjwLR4E
+271,271,서울E,츠바사,29,5,1,239,665,151,66,35,65,62,200,73,66,27,47,80,81,24,MF,CDM,Builder,https://www.youtube.com/watch?v=tByjV4E-xfY
+272,272,서울E,유정완,10,2,0,86,74,11,20,3,7,20,60,8,54,42,32,89,78,15,FW,WF,Wide Threat,https://www.youtube.com/watch?v=cFBERdNyXm8
+273,273,서울E,채광훈,25,0,2,240,555,226,49,88,74,43,132,67,80,35,51,61,86,31,DF,FB,Safety,https://www.youtube.com/watch?v=7cQIu2FAgqQ
+274,274,서울E,김연수,38,0,0,55,874,601,86,306,226,93,175,138,40,67,61,83,84,45,DF,CB,Spreader,https://www.youtube.com/watch?v=9pl9Be4-3V4
+275,275,서울E,김인성,24,5,2,301,247,49,47,12,29,19,138,34,64,45,28,85,82,32,FW,WF,Wide Threat,https://www.youtube.com/watch?v=9vrMzZ7Z000
+276,276,서울E,김선민,37,2,1,195,981,295,135,108,175,103,319,87,43,50,47,84,85,34,MF,CAM,Box crasher,https://www.youtube.com/watch?v=D978tFyYv28
+277,277,서울E,아센호,11,2,0,118,132,11,23,10,5,14,54,11,56,0,49,57,65,35,FW,CF,Roamer,https://www.youtube.com/watch?v=zKSTOg974X4
+278,278,서울E,정성호,3,1,0,24,35,0,0,1,1,2,15,5,33,0,37,76,76,0,FW,CF,Finisher,
+279,279,서울E,이성윤,3,1,0,27,23,8,6,3,3,7,20,15,69,55,44,80,67,33,FW,WF,Wide Threat,
+280,280,서울E,김정환,23,6,4,188,258,49,61,16,38,29,127,34,51,37,36,75,77,18,FW,WF,Wide Threat,https://www.youtube.com/watch?v=W1w789lO4cU
+281,281,서울E,김민규,8,0,1,23,193,100,13,52,34,19,36,32,0,50,57,79,87,46,DF,CB,Spreader,https://www.youtube.com/watch?v=5dLYqWvcOGU
+282,282,서울E,서보민,13,0,1,185,307,115,19,46,38,29,58,34,55,43,53,65,83,16,DF,FB,Progressor,https://www.youtube.com/watch?v=7cQIu2FAgqQ&t=1s
+283,283,서울E,이인재,11,0,0,32,282,225,18,109,63,24,46,33,50,75,60,86,78,50,DF,CB,Aggressor,https://www.youtube.com/watch?v=zYXhBOvmMYQ&t=1s
+284,284,서울E,서재민,12,0,1,109,278,131,20,32,26,15,60,20,14,50,29,78,82,25,DF,FB,Safety,https://www.youtube.com/watch?v=75CXhXWCAwE
+285,285,서울E,김진환,2,0,0,6,58,51,2,23,13,4,8,9,50,0,62,83,95,100,DF,CB,Spreader,
+286,286,서울E,김형근,4,0,0,0,0,153,0,8,22,1,4,1,0,0,0,68,94,0,GK,GK,Goalkeeper,
+287,287,서울E,까데나시,21,10,4,126,182,13,43,11,8,8,51,26,45,33,47,45,56,28,FW,CF,Finisher,https://www.youtube.com/watch?v=2jVoeZ9VhHw
+288,288,서울E,한용수,20,0,0,11,336,337,19,160,90,49,45,63,14,0,58,89,88,42,DF,CB,SCB,https://www.youtube.com/watch?v=zYXhBOvmMYQ
+289,289,서울E,이재익,27,1,0,42,607,409,51,179,139,48,94,67,70,20,55,77,83,37,DF,CB,SCB,https://www.youtube.com/watch?v=iq1Juy6NEdY
+290,290,서울E,곽성욱,4,0,0,33,76,13,14,6,7,8,24,15,17,0,38,70,75,36,MF,CDM,Box to Box,
+291,291,서울E,배재우,20,0,1,213,437,124,53,73,45,30,102,33,33,40,55,66,87,49,DF,FB,Safety,https://www.youtube.com/watch?v=mHVZ98Wxs7U
+292,292,서울E,박태준,7,0,1,93,171,37,21,9,23,9,70,14,40,67,53,82,79,33,MF,CDM,Box to Box,
+293,293,서울E,이동률,23,6,5,216,230,47,64,14,26,21,142,43,64,52,38,70,70,27,FW,WF,Wide Threat,https://www.youtube.com/watch?v=EZyWiG-qwHs
+294,294,성남,박수일,28,5,1,330,487,219,72,65,73,43,158,70,53,39,38,75,85,32,DF,FB,Safety,https://www.youtube.com/watch?v=mW0s5Tf5Qt4
+295,295,성남,이시영,25,0,2,227,414,220,45,90,61,46,137,54,62,27,40,69,84,22,DF,FB,Safety,https://www.youtube.com/watch?v=uMr8mJjk8bY
+296,296,성남,김민혁,29,4,2,276,597,173,68,70,56,40,177,49,69,25,49,85,83,35,DF,CB,Spreader,https://www.youtube.com/watch?v=IoScwsvC2eQ
+297,297,성남,김훈민,3,0,1,36,70,24,14,9,11,5,20,13,83,43,37,77,72,29,DF,FB,Safety,
+298,298,성남,전성수,10,2,0,86,103,15,10,14,6,10,39,8,81,35,36,72,76,30,FW,CF,Roamer,https://www.youtube.com/watch?v=vdbdjfA_fb4
+299,299,성남,김지수,18,0,1,5,312,298,21,98,80,24,49,31,0,0,45,86,88,43,DF,CB,SCB,https://www.youtube.com/watch?v=CLWrJjQVUXY
+300,300,성남,연제운,18,1,1,30,596,434,28,117,82,36,57,49,50,0,57,93,93,64,DF,CB,Aggressor,https://www.youtube.com/watch?v=JTQJfiKHN0c
+301,301,성남,김현태,5,0,0,22,141,51,8,16,14,8,27,10,0,0,59,83,93,37,DF,CB,SCB,
+302,302,성남,이지훈,13,0,0,122,204,75,25,14,15,13,49,24,50,38,41,72,80,44,DF,FB,Safety,https://www.youtube.com/watch?v=YhYeiPR5lC8
+303,303,성남,뮬리치,22,9,1,152,274,22,11,15,8,2,77,13,52,42,55,64,69,18,FW,CF,Finisher,https://www.youtube.com/watch?v=2GZ4uukcNHY
+304,304,성남,김영광,34,0,0,0,6,807,1,31,145,2,50,1,0,0,0,48,100,100,GK,GK,Goalkeeper,https://www.youtube.com/watch?v=bYLY_NBMG7k
+305,305,성남,이재원,14,0,0,82,252,91,42,36,44,24,109,48,27,25,44,78,80,21,DF,CB,SCB,https://www.youtube.com/watch?v=-5_mffJ29zY
+306,306,성남,마상훈,16,0,0,8,323,329,32,117,72,39,52,46,40,100,54,87,93,25,DF,CB,SCB,https://www.youtube.com/watch?v=G8dffGLiKUw
+307,307,성남,양시후,4,0,0,11,167,56,16,26,27,11,34,15,0,0,68,81,86,62,MF,CAM,Creator,
+308,308,성남,장효준,10,0,0,77,164,104,27,26,27,27,35,33,100,0,41,81,84,30,DF,FB,Safety,https://www.youtube.com/watch?v=ccP9ZxGtYcQ
+309,309,성남,밀로스,11,3,0,77,322,71,35,15,29,16,57,15,58,60,57,80,74,34,MF,CAM,Creator,https://www.youtube.com/watch?v=pfYL5SogNmY
+310,310,성남,이종호,7,0,2,50,87,23,23,11,3,7,42,11,53,40,36,69,68,30,FW,CF,Finisher,https://www.youtube.com/watch?v=-_EhESriLjs
+311,311,성남,곽광선,9,0,0,1,181,199,8,71,40,21,15,34,0,0,65,89,93,25,DF,CB,SCB,https://www.youtube.com/watch?v=JWDJrZfTKb8
+312,312,성남,최지묵,17,0,0,114,505,253,51,49,69,29,68,41,50,50,43,79,90,35,DF,FB,Safety,https://www.youtube.com/watch?v=1hzFtiaszEo
+313,313,성남,조성욱,7,0,0,3,162,84,11,67,29,14,18,26,33,100,56,77,88,27,DF,CB,Spreader,https://www.youtube.com/watch?v=J20Y4DOzqC4
+314,314,성남,강의빈,16,0,1,28,304,233,33,132,60,40,53,62,100,0,59,79,88,33,DF,CB,SCB,https://www.youtube.com/watch?v=7cQIu2FAgqQ
+315,315,성남,최필수,6,0,0,0,0,167,0,10,22,0,5,0,0,0,0,66,100,0,GK,GK,Goalkeeper,https://www.youtube.com/watch?v=a6z4Gy1LjPU
+316,316,성남,강재우,5,0,1,27,64,7,9,1,4,10,18,5,50,27,47,82,71,33,MF,CDM,Builder,https://www.youtube.com/watch?v=TetRFJwMhZE
+317,317,성남,안진범,8,0,1,67,267,36,19,9,12,16,59,13,0,0,33,82,87,11,MF,CDM,Box to Box,https://www.youtube.com/watch?v=Si4KJFfHcME
+318,318,성남,권완규,24,2,1,74,608,429,52,136,89,52,99,58,53,60,58,84,90,31,DF,CB,SCB,https://www.youtube.com/watch?v=1a8MiBG3gn8
+319,319,성남,권순형,17,1,0,92,696,181,44,41,60,35,147,48,33,100,51,88,89,36,MF,CAM,Creator,https://www.youtube.com/watch?v=y8EMjG_xWDY
+320,320,성남,팔라시오스,17,4,3,163,181,15,27,3,10,5,100,10,71,70,50,81,75,22,FW,WF,Outlet,https://www.youtube.com/watch?v=UG23TtitNvA
+321,321,성남,구본철,26,5,4,209,368,86,82,31,45,43,134,52,58,46,45,83,82,30,FW,WF,Wide Threat,https://www.youtube.com/watch?v=p9A24Klhfcc
+322,322,성남,심동운,10,1,1,61,113,20,15,5,9,8,27,15,73,14,21,82,86,7,MF,CDM,Builder,https://www.youtube.com/watch?v=kM8RGpF7rRg
+323,323,수원,민상기,20,0,0,19,566,481,18,118,101,30,83,50,25,0,67,91,93,33,DF,CB,Aggressor,https://www.youtube.com/watch?v=EGWY26Nz3V8
+324,324,수원,그로닝,7,0,0,53,60,2,10,12,4,5,19,2,25,33,39,58,57,40,FW,CF,Finisher,https://www.youtube.com/watch?v=ovUtZ_KTjoQ
+325,325,수원,마나부,8,1,3,76,89,22,23,1,8,7,46,8,53,67,33,72,66,26,FW,WF,Wide Threat,https://www.youtube.com/watch?v=9C3BelSzMZA
+326,326,수원,유제호,3,0,0,18,81,25,5,4,4,5,18,4,0,50,33,78,87,40,MF,CAM,Box crasher,
+327,327,수원,류승우,18,2,0,120,215,45,62,21,19,26,78,28,59,25,30,76,81,24,FW,CF,Finisher,https://www.youtube.com/watch?v=PzaRGAkuONM
+328,328,수원,한석종,13,0,0,73,554,119,42,22,41,26,85,27,50,50,50,94,88,38,MF,CAM,Creator,https://www.youtube.com/watch?v=3HJ8kkL7Ujg
+329,329,수원,고명석,18,3,0,17,387,255,36,146,99,51,69,60,57,100,63,80,88,28,DF,CB,SCB,https://www.youtube.com/watch?v=HBYSOooV2_g
+330,330,수원,강현묵,14,0,4,137,217,45,48,11,25,31,87,27,54,50,34,77,82,44,MF,CDM,Builder,https://www.youtube.com/watch?v=g_mN7ia_Gww
+331,331,수원,박형진,6,1,0,40,182,40,12,8,17,15,39,10,50,20,55,75,87,17,DF,FB,Safety,https://www.youtube.com/watch?v=DFNYzJwVAoM
+332,332,수원,이기제,34,1,14,288,815,284,44,106,74,47,117,46,68,87,46,79,89,30,DF,FB,Safety,https://www.youtube.com/watch?v=C-X0Xn3e_Vs&t=4s
+333,333,수원,사리치,20,3,2,158,686,151,60,22,64,36,111,43,73,43,50,83,88,30,MF,CAM,Creator,https://www.youtube.com/watch?v=ew5j_u-J3p8
+334,334,수원,노동건,2,0,0,0,0,56,0,1,8,0,2,1,0,0,0,56,100,0,GK,GK,Swiper goalkeeper,
+335,335,수원,불투이스,34,0,0,45,831,556,48,184,133,72,89,83,38,60,67,84,91,46,DF,CB,SCB,https://www.youtube.com/watch?v=IiiX5qFXpMI
+336,336,수원,이종성,22,2,0,119,784,231,64,46,79,44,178,55,78,50,61,79,90,33,MF,CAM,Creator,https://www.youtube.com/watch?v=J6eOMeDzGWE
+337,337,수원,김상준,12,2,0,42,400,120,26,53,54,26,71,28,67,100,52,82,84,27,MF,CAM,Box crasher,https://www.youtube.com/watch?v=t3SSun_bZVY
+338,338,수원,전진우,19,6,3,161,237,35,42,18,16,17,73,23,52,54,49,78,80,43,FW,CF,Roamer,https://www.youtube.com/watch?v=bRgT-yGKak8
+339,339,수원,정승원,27,0,1,211,480,120,46,30,73,23,192,52,46,22,35,78,78,24,FW,WF,Unlocker,https://www.youtube.com/watch?v=qxQ0Uo1qRWo
+340,340,수원,오현규,26,13,3,200,296,37,35,11,18,20,113,28,57,62,39,71,71,29,FW,CF,Finisher,https://www.youtube.com/watch?v=gcMEqB1QYK0
+341,341,수원,박대원,7,0,0,49,172,67,10,46,17,14,27,32,67,100,61,75,89,40,DF,FB,Safety,https://www.youtube.com/watch?v=AhOpPa7mwyA
+342,342,수원,양형모,37,0,0,0,10,960,1,35,122,0,51,2,0,0,0,61,100,100,GK,GK,Goalkeeper,https://www.youtube.com/watch?v=RU8wH9yl_uM
+343,343,수원,안병준,23,11,0,126,219,18,14,25,12,13,63,12,59,38,52,61,66,14,FW,CF,Finisher,https://www.youtube.com/watch?v=fpnDhLMJVtg
+344,344,수원,최성근,3,0,0,18,74,15,11,7,14,11,27,9,0,0,62,91,67,55,MF,CAM,Box crasher,
+345,345,수원,김건희,8,2,0,82,100,7,7,8,5,7,34,3,48,21,53,64,72,71,FW,CF,Roamer,https://www.youtube.com/watch?v=cYaVo_iN7h4
+346,346,수원,양상민,3,0,0,5,71,25,9,21,7,8,10,18,0,0,57,74,82,56,DF,CB,SCB,
+347,347,수원,장호익,20,0,2,136,530,209,58,107,66,61,80,53,0,21,63,78,84,52,DF,FB,Safety,https://www.youtube.com/watch?v=Leywuq5eDx4
+348,348,수원,염기훈,6,0,0,132,133,14,5,8,6,4,37,7,27,56,52,77,75,60,FW,WF,Unlocker,https://www.youtube.com/watch?v=HVks_G7PgH4
+349,349,수원FC,정재용,24,5,2,128,763,193,50,40,77,39,158,59,72,0,45,84,82,30,MF,CAM,Creator,https://www.youtube.com/watch?v=LXIPBpHDPkk
+350,350,수원FC,김주엽,3,0,1,31,64,44,19,12,14,8,16,6,100,43,56,62,85,53,DF,FB,Safety,
+351,351,수원FC,이영준,4,1,1,41,58,3,13,3,4,5,13,7,70,100,45,67,64,15,FW,CF,Roamer,https://www.youtube.com/watch?v=c0no_JiIFjk
+352,352,수원FC,곽윤호,21,0,1,6,409,401,43,198,105,54,59,54,100,0,61,84,92,51,DF,CB,SCB,https://www.youtube.com/watch?v=Nbh-DlB1_ag
+353,353,수원FC,박민규,35,1,1,287,699,253,55,129,97,85,132,88,43,31,55,73,89,45,DF,FB,Safety,https://www.youtube.com/watch?v=jLa-TOwlTXY&t=4s
+354,354,수원FC,박상명,2,0,1,18,13,5,3,1,1,0,10,9,100,25,36,89,70,0,FW,WF,Wide Threat,
+355,355,수원FC,박배종,26,0,0,0,4,710,3,30,112,1,36,3,0,0,0,54,100,33,GK,GK,Swiper goalkeeper,https://www.youtube.com/watch?v=LowtAmZ4gWs
+356,356,수원FC,라스,28,8,7,336,308,8,11,31,18,14,109,25,55,24,56,55,60,36,FW,CF,Roamer,https://www.youtube.com/watch?v=fWGK-3aLrtQ
+357,357,수원FC,정동호,15,2,0,129,330,119,41,60,37,26,72,18,40,64,42,67,90,22,FW,WF,Unlocker,https://www.youtube.com/watch?v=AfXeh3vh3Zg
+358,358,수원FC,김현,19,8,1,158,265,24,7,28,15,19,62,15,53,0,51,62,64,43,FW,CF,Roamer,https://www.youtube.com/watch?v=wfdVoFKu1B0
+359,359,수원FC,니실라,11,2,2,82,225,40,30,7,18,24,67,25,56,17,26,80,88,30,MF,CDM,Builder,https://www.youtube.com/watch?v=MxOa6nKu5cE
+360,360,수원FC,잭슨,19,2,1,12,529,406,19,146,79,49,79,50,100,50,65,79,91,47,DF,CB,Aggressor,https://www.youtube.com/watch?v=rDLm9A_vRo8
+361,361,수원FC,이기혁,7,0,1,66,126,36,25,16,10,19,38,22,56,100,39,71,72,24,FW,CF,Roamer,https://www.youtube.com/watch?v=0j2rGsM-k4Q
+362,362,수원FC,이범영,2,0,0,0,0,53,0,2,11,0,2,0,0,0,0,62,100,0,GK,GK,Goalkeeper,
+363,363,수원FC,김상원,4,0,0,33,109,55,6,17,16,5,23,18,100,80,53,66,87,67,DF,FB,Safety,
+364,364,수원FC,김건웅,36,2,2,97,896,455,78,178,133,77,147,79,45,0,57,87,92,23,MF,CAM,Box crasher,https://www.youtube.com/watch?v=vJ_2Am2uy6o
+365,365,수원FC,장재웅,2,0,1,16,21,0,5,1,3,2,8,1,33,0,38,78,82,40,FW,CF,Finisher,
+366,366,수원FC,황순민,4,0,1,38,128,37,19,12,5,9,22,12,0,25,46,81,88,21,DF,FB,Safety,
+367,367,수원FC,김승준,16,5,2,148,171,40,16,9,16,13,56,22,71,40,46,74,80,38,FW,CF,Roamer,https://www.youtube.com/watch?v=YXhTUszNg8E
+368,368,수원FC,장혁진,12,1,1,106,389,78,39,18,41,16,110,28,67,75,45,81,85,33,MF,CAM,Box crasher,https://www.youtube.com/watch?v=2nYU2DJu4kY
+369,369,수원FC,양동현,2,0,0,20,41,4,0,4,2,3,7,3,33,0,53,87,65,0,FW,CF,Finisher,
+370,370,수원FC,신재원,3,0,0,18,49,42,8,14,6,7,14,16,50,50,62,74,82,38,FW,WF,Unlocker,
+371,371,수원FC,이승우,30,14,3,327,418,79,66,19,34,30,148,27,53,39,27,73,85,18,FW,WF,Wide Threat,https://www.youtube.com/watch?v=yZt3Tf7eHYY
+372,372,수원FC,유현,11,0,0,0,0,291,0,20,57,2,15,3,0,0,0,54,100,0,GK,GK,Goalkeeper,https://www.youtube.com/watch?v=_o5qM4hrgcI
+373,373,수원FC,무릴로,17,1,5,200,405,44,31,11,21,13,100,16,46,43,51,77,88,32,MF,CDM,Box to Box,https://www.youtube.com/watch?v=sD6kfA3LhFo
+374,374,수원FC,박주호,30,0,1,193,1050,196,86,59,76,56,215,89,14,67,44,87,89,33,MF,CAM,Box crasher,https://www.youtube.com/watch?v=XheIweWI1EI
+375,375,수원FC,김동우,12,1,0,16,313,217,23,79,54,13,51,41,100,0,51,79,89,43,DF,CB,SCB,https://www.youtube.com/watch?v=6aFW5TEL98E
+376,376,수원FC,신세계,24,0,1,63,465,246,45,107,81,41,70,42,14,0,39,82,93,36,DF,FB,Safety,https://www.youtube.com/watch?v=y3Ls4KUQu0w
+377,377,안산,이승빈,31,0,0,0,7,820,4,35,159,0,58,5,0,100,0,48,96,100,GK,GK,Goalkeeper,https://www.youtube.com/watch?v=86z3_Q41TJ4
+378,378,안산,이와세,21,0,0,129,405,168,48,65,46,67,97,73,29,38,49,70,83,38,DF,FB,Safety,https://www.youtube.com/watch?v=xMRZT8h1FZg
+379,379,안산,김륜도,18,0,1,191,250,30,23,27,23,20,93,22,26,17,44,46,71,17,FW,CF,Roamer,https://www.youtube.com/watch?v=6aRwAXSFMHo
+380,380,안산,강수일,9,2,0,65,153,17,10,24,11,7,37,15,56,40,50,57,66,20,MF,CDM,Builder,https://www.youtube.com/watch?v=z2h4Xx2H_yg
+381,381,안산,장동혁,3,0,0,5,13,7,2,2,1,4,4,1,0,0,67,60,93,50,DF,CB,SCB,
+382,382,안산,김보섭,37,7,5,383,439,117,75,59,62,39,165,61,61,46,36,75,79,33,FW,WF,Wide Threat,https://www.youtube.com/watch?v=_5ud_Wbrwz8
+383,383,안산,최건주,31,7,3,261,221,42,52,18,26,36,104,34,59,39,36,82,79,31,FW,WF,Wide Threat,https://www.youtube.com/watch?v=NgU1KKT3oHs
+384,384,안산,장유섭,17,1,0,13,276,182,28,137,61,41,52,53,40,0,56,73,86,46,DF,CB,Spreader,https://www.youtube.com/watch?v=hewevQTHYLI
+385,385,안산,이준희,27,1,4,285,495,208,45,111,89,52,108,84,100,53,49,65,81,24,DF,FB,Safety,https://www.youtube.com/watch?v=XVwycZY5SzI
+386,386,안산,이지성,2,0,0,22,18,3,3,1,2,2,9,3,33,33,40,69,77,0,FW,WF,Wide Threat,
+387,387,안산,김경수,8,1,0,36,247,63,20,22,31,16,54,25,50,50,38,78,87,35,FW,CF,Finisher,https://www.youtube.com/watch?v=qf7xBM0iiGU
+388,388,안산,권영호,23,3,0,26,399,354,37,193,106,50,66,86,42,67,64,84,86,46,DF,CB,Spreader,https://www.youtube.com/watch?v=K9Ul8K9Tfio
+389,389,안산,김원중,2,0,0,0,1,61,0,0,10,0,3,1,0,0,0,43,0,0,GK,GK,Swiper goalkeeper,
+390,390,안산,김예성,17,0,0,175,389,137,45,62,60,32,71,61,75,44,52,71,85,42,DF,FB,Safety,https://www.youtube.com/watch?v=Abxfsxww_MU
+391,391,안산,김영남,20,0,0,69,473,353,65,82,119,44,128,72,50,50,62,85,82,29,MF,CAM,Creator,https://www.youtube.com/watch?v=ZzyRHIgxL4Y
+392,392,안산,김선우,8,0,0,0,1,272,2,5,36,0,23,2,0,0,0,51,95,50,GK,GK,Swiper goalkeeper,https://www.youtube.com/watch?v=N-RPz7itGTk
+393,393,안산,김민호,31,0,0,32,572,546,50,233,162,61,116,105,80,0,61,81,89,32,DF,CB,SCB,https://www.youtube.com/watch?v=rkDaWX5hfwc
+394,394,안산,김경준,18,6,0,127,209,22,40,17,15,12,59,9,66,32,34,64,73,25,FW,CF,Finisher,https://www.youtube.com/watch?v=nbVNRQo6Exs
+395,395,안산,아스나위,18,2,2,153,325,130,46,48,38,39,76,39,70,55,58,71,79,50,DF,FB,Safety,https://www.youtube.com/watch?v=ebqqHAF1q_E
+396,396,안산,까뇨뚜,8,3,3,122,142,8,13,5,8,9,37,8,56,36,23,78,76,23,FW,WF,Outlet,https://www.youtube.com/watch?v=PqV0ak3E38g
+397,397,안산,변승환,2,0,0,12,58,20,15,3,10,7,20,5,100,0,33,97,82,33,DF,CB,SCB,
+398,398,안산,두아르테,24,4,7,337,545,70,32,7,35,12,118,21,60,61,22,76,76,38,FW,WF,Unlocker,https://www.youtube.com/watch?v=3_Jbgze6z_g
+399,399,안산,송진규,20,5,3,192,432,97,32,12,39,20,128,48,61,48,38,87,83,41,MF,CDM,Box to Box,https://www.youtube.com/watch?v=beNR4FO-h94
+400,400,안산,신일수,11,0,1,37,215,106,22,63,46,19,45,32,38,100,65,70,77,41,DF,CB,Spreader,https://www.youtube.com/watch?v=xMRZT8h1FZg
+401,401,안산,신재혁,3,1,0,24,28,4,6,5,5,7,8,4,67,18,52,83,75,33,FW,WF,Wide Threat,
+402,402,안산,박동휘,6,0,0,31,88,61,32,21,13,21,32,22,50,17,37,75,77,38,DF,FB,Safety,https://www.youtube.com/watch?v=JbzzAjmn5AA
+403,403,안산,안성민,13,0,0,46,244,162,23,83,42,29,33,40,50,0,51,75,82,30,DF,FB,Safety,https://www.youtube.com/watch?v=mQNHETClmc8
+404,404,안산,박민준,2,0,0,3,43,32,1,22,8,2,16,11,0,0,55,64,81,100,DF,CB,Spreader,
+405,405,안양,윤준성,4,0,0,8,77,55,3,43,21,10,16,17,50,0,53,79,83,0,DF,CB,Spreader,
+406,406,안양,이창용,28,3,0,36,544,473,30,247,135,55,92,73,50,100,69,86,90,53,DF,CB,SCB,https://www.youtube.com/watch?v=C_moZ_1IAJg
+407,407,안양,연제민,11,0,0,3,233,125,25,98,56,32,29,47,50,0,62,77,93,32,DF,CB,Spreader,https://www.youtube.com/watch?v=8-gBXjanwOQ
+408,408,안양,정민기,43,0,0,0,52,1301,0,60,216,4,81,9,0,0,100,55,98,0,GK,GK,Swiper goalkeeper,https://www.youtube.com/watch?v=jNdDkoQZuP8&t=131s
+409,409,안양,정석화,9,2,1,85,215,42,14,3,16,11,70,10,56,22,39,86,83,36,MF,CDM,Box to Box,https://www.youtube.com/watch?v=XgKas3qoWxY
+410,410,안양,정준연,8,0,0,70,107,70,13,42,25,19,30,22,67,25,56,64,82,46,DF,FB,Safety,https://www.youtube.com/watch?v=rL7sDkxDn6U
+411,411,안양,김동진,31,3,4,422,682,226,71,91,65,58,158,71,65,33,49,72,87,34,DF,FB,Safety,https://www.youtube.com/watch?v=8h8S9ON34FM
+412,412,안양,박종현,33,0,0,61,770,361,47,193,133,71,132,69,43,75,59,84,87,32,DF,CB,SCB,https://www.youtube.com/watch?v=NyR70riqsvU
+413,413,안양,박재용,6,2,0,84,100,12,7,7,6,5,28,5,58,100,49,64,66,0,FW,CF,Target,https://www.youtube.com/watch?v=A7ryl_ovkl8
+414,414,안양,김주환,13,0,0,136,293,104,34,42,40,20,58,28,0,27,42,75,84,44,DF,FB,Safety,https://www.youtube.com/watch?v=4GlaAvGgDEg
+415,415,안양,김경중,17,6,4,242,313,34,26,5,21,8,90,18,60,44,41,82,80,46,FW,WF,Wide Threat,https://www.youtube.com/watch?v=aQOirDlZHcA
+416,416,안양,주현우,33,1,3,395,621,231,78,105,111,64,174,77,54,50,54,67,81,24,DF,FB,Safety,https://www.youtube.com/watch?v=HbSC-uqv2ks
+417,417,안양,안드리고,17,7,4,163,358,103,78,31,49,39,171,40,51,56,44,71,72,29,MF,CAM,Box crasher,https://www.youtube.com/watch?v=PYSCHHgtRvM
+418,418,안양,아코스티,28,7,11,377,400,64,36,25,30,28,155,34,52,46,48,78,77,25,FW,WF,Wide Threat,https://www.youtube.com/watch?v=ddSDOPIjYS8
+419,419,안양,구대영,12,0,1,116,284,108,37,42,45,47,65,30,50,38,72,67,87,43,DF,FB,Safety,https://www.youtube.com/watch?v=x41QkpkWLso
+420,420,안양,홍창범,17,0,2,173,510,90,46,37,54,42,141,45,58,71,42,85,83,30,MF,CAM,Box crasher,https://www.youtube.com/watch?v=0LHJT43CuNA
+421,421,안양,황기욱,24,1,2,150,713,141,67,75,63,41,171,68,83,75,57,77,84,19,MF,CAM,Box crasher,https://www.youtube.com/watch?v=fE5Q8dbaA7o
+422,422,안양,조나탄,27,9,4,311,322,14,16,26,16,11,80,9,61,0,49,62,67,38,FW,CF,Roamer,https://www.youtube.com/watch?v=qGZkhODSdLg
+423,423,안양,백동규,41,2,0,101,1064,548,39,279,175,73,149,108,67,100,62,77,89,49,DF,CB,SCB,https://www.youtube.com/watch?v=Ad8JovAVI0o
+424,424,안양,백성동,27,5,1,312,403,64,28,24,24,20,156,27,51,55,36,80,81,36,FW,WF,Wide Threat,https://www.youtube.com/watch?v=Dor5o8g_QYA
+425,425,안양,이상용,6,0,0,3,142,76,11,40,26,11,19,11,0,0,43,89,96,55,DF,CB,SCB,https://www.youtube.com/watch?v=ipb3hxkURBo
+426,426,안양,이정빈,11,0,0,108,341,57,21,17,34,11,91,18,50,57,36,82,86,38,MF,CDM,Box to Box,https://www.youtube.com/watch?v=607WtPtQsBY
+427,427,안양,김형진,2,1,0,4,29,18,4,16,13,1,11,6,33,0,72,92,93,25,DF,CB,Spreader,
+428,428,울산,레오나르도,26,11,4,199,220,14,37,8,10,10,73,20,71,27,35,75,72,38,FW,CF,Finisher,https://www.youtube.com/watch?v=bWvjmrmf3kc
+429,429,울산,바코,33,8,1,584,666,77,51,11,35,29,145,35,65,44,44,90,90,39,FW,CF,Target,https://www.youtube.com/watch?v=7g5rIi7TYYg
+430,430,울산,조수혁,2,0,0,0,0,62,0,2,12,0,5,1,0,0,0,67,100,0,GK,GK,Goalkeeper,
+431,431,울산,엄원상,26,12,6,349,233,64,62,15,30,35,112,52,78,47,38,78,80,26,FW,WF,Wide Threat,https://www.youtube.com/watch?v=AsaXZ2st2cA
+432,432,울산,김태환,57,0,4,825,1359,472,114,113,152,79,253,103,54,48,50,76,89,46,DF,FB,Safety,https://www.youtube.com/watch?v=GZUULmc33Rs
+433,433,울산,김영권,36,0,0,94,1809,870,42,168,177,53,121,51,25,50,68,89,97,29,DF,CB,Aggressor,https://www.youtube.com/watch?v=oz6yQTFsKcw
+434,434,울산,신형민,2,0,0,9,94,36,5,7,13,5,11,3,0,0,45,77,93,60,DF,CB,Aggressor,
+435,435,울산,박주영,2,0,0,19,15,0,2,0,0,1,2,2,33,0,78,88,77,50,FW,CF,Roamer,
+436,436,울산,아마노 준,24,9,1,402,436,51,45,13,20,35,107,43,59,28,31,84,90,31,FW,WF,Unlocker,https://www.youtube.com/watch?v=RJy3-dQioOg
+437,437,울산,최기윤,5,1,1,60,59,10,40,0,5,5,22,5,86,25,19,84,75,28,FW,WF,Wide Threat,https://www.youtube.com/watch?v=m9ZzGBOqS74
+438,438,울산,고명진,4,0,0,42,225,45,14,13,10,6,23,4,0,0,48,89,95,36,MF,CAM,Creator,
+439,439,울산,이청용,26,3,2,498,1070,207,64,23,78,40,163,46,65,55,56,87,90,41,MF,CDM,Distributor,https://www.youtube.com/watch?v=i9PvxOLaAgM
+440,440,울산,황재환,3,0,0,20,35,4,5,0,0,3,14,5,100,50,33,75,91,40,FW,CF,Finisher,
+441,441,울산,설영우,31,0,3,590,1173,404,82,107,130,73,167,60,45,67,61,88,94,40,DF,FB,Progressor,https://www.youtube.com/watch?v=fZy5o2S9aYU
+442,442,울산,임종은,14,1,1,22,603,396,14,94,81,20,38,28,60,100,64,91,96,57,DF,CB,Aggressor,https://www.youtube.com/watch?v=0bm-BKbdPwQ
+443,443,울산,이규성,26,1,1,372,1098,195,83,29,82,35,152,37,55,69,46,88,89,33,MF,CDM,Distributor,https://www.youtube.com/watch?v=1CMgVDX6Wds
+444,444,울산,조현우,37,0,0,0,10,1124,2,17,104,2,67,2,0,0,100,78,100,100,GK,GK,Goalkeeper,https://www.youtube.com/watch?v=ZxgfPs2IjBU
+445,445,울산,김기희,14,0,1,18,551,332,29,90,66,30,32,23,0,100,62,87,95,24,DF,CB,Aggressor,https://www.youtube.com/watch?v=Equb8X_dRMM
+446,446,울산,김민준,6,1,0,95,74,7,12,4,8,8,23,14,70,8,39,76,83,17,FW,WF,Wide Threat,https://www.youtube.com/watch?v=WITRM_8ANh8
+447,447,울산,마틴 아담,9,9,4,80,95,2,3,7,4,5,16,12,70,0,59,65,73,33,FW,CF,Roamer,https://www.youtube.com/watch?v=3RTFK-0oVtk
+448,448,울산,박용우,28,0,0,257,1475,411,63,129,162,43,167,82,60,33,62,90,91,35,MF,CAM,Creator,https://www.youtube.com/watch?v=RrXxdWi6Z8k
+449,449,울산,원두재,16,0,0,104,988,312,50,60,67,38,82,33,29,0,55,88,93,36,MF,CAM,Creator,https://www.youtube.com/watch?v=YVw2izlB34o
+450,450,울산,이명재,17,0,3,239,401,190,26,57,51,32,77,28,27,53,53,78,91,42,DF,FB,Safety,https://www.youtube.com/watch?v=AgEM7t-bScE
+451,451,울산,윤일록,7,1,1,93,132,40,21,8,20,20,47,9,50,64,36,84,81,38,FW,WF,Wide Threat,https://www.youtube.com/watch?v=Psq2PJkUJ6k
+452,452,인천,김동헌,26,0,0,0,5,599,1,36,103,2,50,4,0,0,0,52,100,100,GK,GK,Goalkeeper,https://www.youtube.com/watch?v=pYZYvaU_5YY
+453,453,인천,이동수,13,1,0,112,439,117,40,46,45,14,93,34,50,60,58,83,87,10,MF,CAM,Box crasher,https://www.youtube.com/watch?v=1HkO0Y3kwAE
+454,454,인천,아길라르,23,0,3,278,772,133,68,17,38,28,138,36,60,57,44,77,83,50,MF,CDM,Box to Box,https://www.youtube.com/watch?v=yx4C3OQt-Wk
+455,455,인천,김광석,14,0,0,1,204,236,21,70,46,20,31,33,0,0,45,89,95,19,DF,CB,SCB,https://www.youtube.com/watch?v=xy_6lOte0oE
+456,456,인천,이용재,9,1,2,49,126,14,3,9,3,11,40,9,50,0,36,52,78,0,MF,CDM,Builder,https://www.youtube.com/watch?v=DL6EI0XQDe8
+457,457,인천,이명주,32,4,5,299,1101,253,132,51,95,73,212,62,77,50,51,84,88,33,MF,CAM,Box crasher,https://www.youtube.com/watch?v=EWPTonaDdAM
+458,458,인천,여름,10,0,0,96,383,98,25,34,53,25,90,28,25,100,56,75,86,48,MF,CAM,Creator,https://www.youtube.com/watch?v=U53wiAvuKkc
+459,459,인천,오반석,12,0,0,16,261,131,24,86,58,28,34,49,50,0,63,69,86,29,DF,CB,Spreader,https://www.youtube.com/watch?v=I9kIB01wLuw
+460,460,인천,김창수,3,0,0,16,54,22,6,16,13,10,6,5,0,0,60,77,74,50,DF,FB,Safety,
+461,461,인천,오재석,2,0,1,35,64,14,9,5,7,5,12,7,100,100,36,61,91,11,DF,FB,Safety,
+462,462,인천,김도혁,27,2,3,271,603,127,62,45,44,33,146,69,39,45,40,78,83,45,MF,CDM,Box to Box,https://www.youtube.com/watch?v=LngV24d85G0
+463,463,인천,델브리지,31,0,1,73,703,451,53,251,138,88,90,99,30,38,67,82,84,32,DF,CB,Spreader,https://www.youtube.com/watch?v=ugkYuMHBaN0
+464,464,인천,김민석,2,3,1,18,22,5,4,2,4,1,19,5,80,0,31,60,80,0,DF,CB,SCB,
+465,465,인천,김동민,31,0,1,66,770,443,81,223,133,87,125,97,30,79,59,78,93,52,DF,CB,SCB,https://www.youtube.com/watch?v=dkyPcypSsE0
+466,466,인천,이강현,13,2,1,50,497,126,34,46,42,30,94,33,80,33,53,84,90,29,MF,CAM,Creator,https://www.youtube.com/watch?v=mvVQvXNrKWE
+467,467,인천,김성민,6,1,0,57,115,35,3,17,8,10,36,7,33,58,32,70,85,0,DF,FB,Safety,https://www.youtube.com/watch?v=005WZBxE9L4
+468,468,인천,이주용,9,0,0,97,205,74,28,32,25,26,45,18,33,71,54,64,86,39,DF,FB,Safety,https://www.youtube.com/watch?v=DnSfY83yQro
+469,469,인천,강민수,22,0,0,19,431,368,23,113,78,36,68,63,100,0,50,86,95,39,DF,CB,SCB,https://www.youtube.com/watch?v=tiS6wM3vsmw
+470,470,인천,김준엽,23,1,2,222,530,188,50,79,51,46,71,50,100,53,53,76,87,30,DF,FB,Safety,https://www.youtube.com/watch?v=RrdJlm1ME1Y
+471,471,인천,박창환,2,0,0,12,42,6,8,2,5,4,19,6,0,50,44,71,72,38,MF,CAM,Box crasher,
+472,472,인천,강윤구,22,1,3,242,426,147,50,39,48,36,95,48,32,37,43,68,83,22,DF,FB,Safety,https://www.youtube.com/watch?v=b1c0KzbXMx8
+473,473,인천,무고사,17,14,0,108,210,9,12,13,7,2,47,4,63,36,44,69,73,42,FW,CF,Finisher,https://www.youtube.com/watch?v=zpcEpguGQJ8
+474,474,인천,송시우,12,4,0,76,82,19,20,5,12,6,51,14,52,48,36,89,77,45,FW,CF,Finisher,https://www.youtube.com/watch?v=-RZqhWssMxE
+475,475,인천,홍시후,13,1,1,121,123,39,28,9,9,21,61,23,47,18,39,76,83,21,FW,CF,Roamer,https://www.youtube.com/watch?v=QHCePpb15-s
+476,476,인천,민경현,22,1,0,202,477,251,65,75,95,54,113,39,56,46,60,67,87,35,DF,FB,Safety,https://www.youtube.com/watch?v=ho5GplJLQB8
+477,477,전남,유헤이,32,1,4,422,1101,208,75,26,80,53,209,56,53,33,41,80,85,31,MF,CDM,Box to Box,https://www.youtube.com/watch?v=p87YdvfQ3js
+478,478,전남,고태원,26,2,0,20,716,433,41,206,147,72,89,72,50,50,62,82,92,39,DF,CB,Spreader,https://www.youtube.com/watch?v=3_lPc6FBjsI
+479,479,전남,이석현,8,0,0,78,389,87,24,5,26,15,53,15,0,67,50,89,92,21,MF,CAM,Creator,https://www.youtube.com/watch?v=pS7JI1U0pw8
+480,480,전남,이규혁,7,0,0,96,164,58,14,19,23,11,30,19,33,43,57,72,89,36,DF,FB,Safety,https://www.youtube.com/watch?v=hJoaE8MNufM
+481,481,전남,발로텔리,21,7,4,202,152,13,21,12,20,13,90,21,45,35,38,71,73,43,FW,WF,Wide Threat,https://www.youtube.com/watch?v=EY-absxHJeU
+482,482,전남,박희성,4,0,0,53,56,19,10,6,1,6,18,3,0,17,53,50,79,60,FW,CF,Roamer,
+483,483,전남,정호진,6,0,0,20,171,66,22,38,15,17,19,17,0,50,44,86,89,36,DF,CB,SCB,https://www.youtube.com/watch?v=HWvZ9Tpc74g
+484,484,전남,이중민,13,5,2,104,104,10,18,9,10,9,49,20,62,43,41,68,73,22,FW,CF,Finisher,https://www.youtube.com/watch?v=Zj3KjAWTgiU
+485,485,전남,김현욱,27,2,1,301,803,151,62,24,71,32,162,30,45,44,52,85,88,26,MF,CDM,Box to Box,https://www.youtube.com/watch?v=7zwgQFvwhrg
+486,486,전남,김다솔,28,0,0,0,12,807,2,17,132,1,37,1,0,0,100,59,100,50,GK,GK,Swiper goalkeeper,https://www.youtube.com/watch?v=cgEhg7DwoXA
+487,487,전남,한호강,11,0,0,24,240,161,19,73,35,21,31,32,100,50,61,83,92,37,DF,CB,Spreader,https://www.youtube.com/watch?v=KR_zfzoni2w
+488,488,전남,최정원,19,0,0,11,495,328,25,168,90,29,79,65,50,0,66,81,90,56,DF,CB,Spreader,https://www.youtube.com/watch?v=50kfgBXrwgM
+489,489,전남,박인혁,28,7,0,310,334,49,60,13,24,26,100,38,60,45,42,73,77,32,FW,CF,Roamer,https://www.youtube.com/watch?v=CJf4FDEh9Is
+490,490,전남,손호준,5,1,0,24,99,57,18,17,6,13,40,13,25,75,50,78,83,22,DF,FB,Safety,https://www.youtube.com/watch?v=ly9E071h-Ag
+491,491,전남,이후권,26,3,1,194,575,238,88,59,88,55,166,64,58,36,54,72,86,38,DF,FB,Safety,https://www.youtube.com/watch?v=tDF_e_Iy9MY
+492,492,전남,장성재,19,1,2,154,927,274,59,50,89,41,161,42,71,64,60,89,91,27,MF,CAM,Creator,https://www.youtube.com/watch?v=GTg23rZ-4Yg
+493,493,전남,카차라바,5,2,0,63,47,6,4,5,3,2,21,3,62,38,57,62,60,100,FW,CF,Roamer,
+494,494,전남,플라나,20,6,1,162,148,17,16,19,18,7,68,7,55,43,42,76,78,31,FW,WF,Wide Threat,https://www.youtube.com/watch?v=Px5W_n9B6m0
+495,495,전남,최희원,3,0,0,8,65,42,6,22,9,9,14,12,0,0,58,65,84,50,DF,FB,Safety,
+496,496,전남,여승원,6,0,0,77,188,59,18,28,23,20,38,23,67,50,53,75,84,17,DF,FB,Safety,https://www.youtube.com/watch?v=ciRtlHdJsPo
+497,497,전남,추상훈,5,0,0,53,55,12,8,3,2,10,31,8,58,33,42,87,84,50,FW,WF,Wide Threat,https://www.youtube.com/watch?v=K_LXFXlOB0c
+498,498,전남,전승민,22,3,1,213,960,229,40,29,67,29,178,31,59,43,40,86,91,25,MF,CAM,Creator,https://www.youtube.com/watch?v=3t6qZWVe3XY
+499,499,전남,박성결,5,1,1,58,85,22,18,5,10,15,26,17,60,25,36,82,76,17,FW,WF,Wide Threat,https://www.youtube.com/watch?v=lIr341H1QlY
+500,500,전남,임찬울,19,5,5,292,267,90,34,31,38,19,114,41,65,50,45,79,85,32,FW,WF,Wide Threat,https://www.youtube.com/watch?v=J0DYV66OGV8
+501,501,전남,김태현,38,1,2,293,1011,410,113,195,177,95,205,98,52,38,61,70,87,43,DF,FB,Safety,https://www.youtube.com/watch?v=v1ZwpfqFTm0
+502,502,전남,최호정,4,0,0,3,92,64,10,20,8,11,7,10,0,0,71,83,94,30,DF,CB,SCB,
+503,503,전남,장순혁,19,0,0,38,428,405,20,151,78,25,52,45,29,0,61,86,91,40,DF,CB,Spreader,https://www.youtube.com/watch?v=CdOVFZTpR7A
+504,504,전북,강상윤,6,0,0,42,94,8,24,2,5,13,20,13,38,67,38,78,87,29,MF,CDM,Builder,https://www.youtube.com/watch?v=sEIhHaU6rCo
+505,505,전북,구스타보,22,8,4,217,252,27,23,38,16,14,72,15,62,46,58,65,67,26,FW,CF,Roamer,https://www.youtube.com/watch?v=CxahhHwxb1U
+506,506,전북,구자룡,8,1,0,4,245,169,8,44,36,11,23,15,50,0,74,89,92,38,DF,CB,Aggressor,https://www.youtube.com/watch?v=ETgu6Fahk2M
+507,507,전북,백승호,29,2,5,247,1160,371,65,106,112,65,175,68,53,42,63,89,88,34,MF,CAM,Creator,https://www.youtube.com/watch?v=8_bw5tBxb-Y&t=1s
+508,508,전북,박진섭,32,2,0,35,1086,734,60,226,134,70,93,77,80,0,69,91,94,33,DF,CB,Aggressor,https://www.youtube.com/watch?v=DL0SZsu5G9o
+509,509,전북,이승기,6,0,1,67,231,65,18,12,21,10,52,14,33,100,45,91,86,11,MF,CAM,Box crasher,https://www.youtube.com/watch?v=-Dof3LtGFWQ
+510,510,전북,박진성,6,0,0,52,126,69,8,23,25,12,20,22,50,25,62,63,83,25,DF,FB,Safety,https://www.youtube.com/watch?v=ZDO5EHsQn5c
+511,511,전북,홍정호,18,1,2,20,719,461,34,148,98,32,53,60,50,0,64,89,93,41,DF,CB,Aggressor,https://www.youtube.com/watch?v=3kOYsxol2mI
+512,512,전북,최철순,12,0,0,139,367,134,28,42,35,25,59,33,33,60,50,78,88,32,DF,FB,Safety,https://www.youtube.com/watch?v=se-yqJv2uSU
+513,513,전북,이범수,3,0,0,0,0,117,0,4,19,1,7,0,0,0,0,70,100,0,GK,GK,Goalkeeper,
+514,514,전북,최보경,5,0,0,12,230,169,8,25,22,12,21,8,0,0,62,92,97,12,DF,CB,Aggressor,https://www.youtube.com/watch?v=Mx_5McEWTdk
+515,515,전북,송민규,17,3,3,226,170,30,39,8,13,13,76,20,59,38,33,79,81,41,FW,CF,Target,https://www.youtube.com/watch?v=8Mw1uJthJQs
+516,516,전북,한교원,11,5,0,129,105,16,18,4,12,6,47,26,50,42,47,84,80,50,FW,WF,Wide Threat,https://www.youtube.com/watch?v=iM-zQExBQG8
+517,517,전북,송범근,37,0,0,7,4,1045,1,33,137,0,55,8,0,0,0,70,100,0,GK,GK,Goalkeeper,https://www.youtube.com/watch?v=YkgzQ-01GeA
+518,518,전북,쿠니모토,12,4,1,195,483,84,33,19,25,21,86,12,64,29,45,78,87,39,FW,WF,Unlocker,https://www.youtube.com/watch?v=QtCaijrpLuM
+519,519,전북,류재문,18,1,1,107,601,228,51,57,52,36,98,47,50,0,57,88,89,35,MF,CAM,Creator,https://www.youtube.com/watch?v=XUXJDIcWrh4
+520,520,전북,김보경,17,2,3,240,350,66,42,15,31,20,104,26,68,44,45,83,84,24,FW,WF,Unlocker,https://www.youtube.com/watch?v=B7AcGWDy_YY
+521,521,전북,김진수,29,2,3,295,738,246,45,80,106,58,128,64,45,29,59,74,90,38,DF,FB,Safety,https://www.youtube.com/watch?v=rh5m_nKqozM
+522,522,전북,김진규,21,2,1,229,699,136,35,39,44,38,121,44,44,17,34,85,89,26,MF,CDM,Box to Box,https://www.youtube.com/watch?v=Dx2_wJI1M7c
+523,523,전북,바로우,23,13,6,246,192,37,32,19,13,31,97,36,67,45,41,84,82,41,FW,WF,Wide Threat,https://www.youtube.com/watch?v=vLwi-Z0Wf_k
+524,524,전북,조규성,28,17,5,321,351,24,17,39,24,1,111,14,69,33,47,84,78,29,FW,CF,Roamer,https://www.youtube.com/watch?v=al7MOYnUm4E
+525,525,전북,이용,20,0,2,175,744,277,52,72,69,63,87,41,33,57,64,77,90,42,DF,FB,Progressor,https://www.youtube.com/watch?v=hw81AZMaarA
+526,526,전북,윤영선,18,0,0,8,426,416,18,109,54,24,42,41,33,0,57,90,94,28,DF,CB,Aggressor,https://www.youtube.com/watch?v=mm88zWuwLEA
+527,527,전북,맹성웅,14,0,2,93,451,119,48,39,44,37,79,25,67,56,61,86,84,42,MF,CAM,Box crasher,https://www.youtube.com/watch?v=LspfMsgabZc
+528,528,전북,김문환,27,1,2,353,745,250,65,64,83,48,132,72,58,23,42,78,91,28,DF,FB,Safety,https://www.youtube.com/watch?v=6A9c7Gidhsw
+529,529,전북,박규민,3,1,0,22,34,6,5,4,9,8,15,9,80,0,48,71,69,40,DF,CB,SCB,
+530,530,전북,문선민,11,1,2,126,100,8,21,5,11,8,45,10,76,31,34,85,82,14,FW,WF,Wide Threat,https://www.youtube.com/watch?v=0hdluuPHvw8
+531,531,제주,김봉수,29,0,1,223,1296,415,80,92,143,82,137,81,0,50,54,88,95,38,MF,CAM,Creator,https://www.youtube.com/watch?v=UXCwyMASLY4
+532,532,제주,유연수,2,0,0,0,5,49,0,0,14,0,10,0,0,0,0,63,100,0,GK,GK,Goalkeeper,
+533,533,제주,김오규,30,1,0,91,1360,563,50,199,176,55,132,87,17,67,62,87,94,50,DF,CB,Aggressor,https://www.youtube.com/watch?v=QO09VEzF7Lk
+534,534,제주,김동준,33,0,0,0,25,873,2,28,151,3,72,6,0,0,0,56,99,50,GK,GK,Goalkeeper,https://www.youtube.com/watch?v=Y94wxollYXg
+535,535,제주,윤빛가람,12,3,2,164,595,86,24,11,42,24,96,30,71,33,47,87,86,42,MF,CDM,Distributor,https://www.youtube.com/watch?v=lh0XhlKRMAk
+536,536,제주,이창민,28,3,4,450,1218,104,54,25,63,39,205,46,53,65,45,79,89,41,MF,CDM,Distributor,https://www.youtube.com/watch?v=CA-VNHwLuxA
+537,537,제주,이지솔,4,0,0,22,142,27,9,25,15,18,14,11,100,0,56,80,92,22,MF,CAM,Creator,
+538,538,제주,김주공,17,5,4,200,167,26,28,8,20,21,96,16,72,33,47,82,81,29,FW,WF,Wide Threat,https://www.youtube.com/watch?v=NyfsxQF9bSM
+539,539,제주,변경준,2,0,0,32,37,8,10,6,4,2,17,6,0,100,26,86,89,30,FW,WF,Unlocker,
+540,540,제주,한종무,6,1,0,49,158,17,20,5,8,10,32,8,80,75,50,90,84,25,MF,CDM,Box to Box,https://www.youtube.com/watch?v=sOlUASTy9ss
+541,541,제주,서진수,15,5,0,178,236,34,48,18,24,13,65,18,55,34,52,76,81,35,FW,WF,Wide Threat,https://www.youtube.com/watch?v=ZLx2UUn9HtQ
+542,542,제주,구자철,2,1,1,35,95,23,7,2,5,4,22,1,62,0,69,89,88,29,MF,CDM,Distributor,
+543,543,제주,김명순,4,0,0,86,129,40,15,7,12,12,26,15,0,60,48,71,86,53,FW,WF,Unlocker,
+544,544,제주,진성욱,9,2,1,92,93,10,21,3,8,3,40,9,40,43,41,56,70,14,FW,CF,Roamer,https://www.youtube.com/watch?v=aVb-9A4ag-0
+545,545,제주,주민규,31,17,7,271,359,17,28,18,10,8,86,13,56,50,43,78,74,11,FW,CF,Roamer,https://www.youtube.com/watch?v=SmQ6hoRX96I
+546,546,제주,안태현,3,0,1,70,118,26,10,8,9,11,25,14,0,100,62,75,90,40,FW,WF,Unlocker,
+547,547,제주,안현범,28,1,0,469,581,129,42,69,46,34,121,48,62,58,44,72,89,40,DF,FB,Safety,https://www.youtube.com/watch?v=n_F8XEMse6o
+548,548,제주,조나탄 링,15,5,2,265,264,31,26,5,14,17,88,12,58,29,35,82,84,27,FW,WF,Wide Threat,https://www.youtube.com/watch?v=IF3lHXz5eiU
+549,549,제주,제르소,31,8,7,301,231,32,75,9,30,35,154,45,70,46,35,81,80,27,FW,WF,Wide Threat,https://www.youtube.com/watch?v=32Um4XLF6Xo
+550,550,제주,최영준,37,0,1,399,1596,296,124,67,134,103,278,109,36,50,47,85,88,37,MF,CAM,Creator,https://www.youtube.com/watch?v=_ztSLf_Jv-8
+551,551,제주,김근배,4,0,0,0,2,118,0,3,24,3,11,1,0,0,0,64,100,0,GK,GK,Goalkeeper,
+552,552,제주,김경재,14,0,0,47,544,251,22,71,71,23,36,41,0,50,48,89,93,9,DF,CB,Aggressor,https://www.youtube.com/watch?v=OvkHXb_NKe0
+553,553,제주,조성준,20,0,5,286,399,102,42,27,45,39,106,31,57,53,39,80,87,26,FW,WF,Unlocker,https://www.youtube.com/watch?v=mIxBdXOlKl0
+554,554,제주,김범수,5,1,0,41,42,7,25,1,3,14,25,5,50,40,28,75,76,20,FW,WF,Wide Threat,https://www.youtube.com/watch?v=-B6UoVe2fNs
+555,555,제주,정운,34,0,2,216,1422,461,37,211,175,57,163,93,22,0,53,87,95,46,DF,CB,Aggressor,https://www.youtube.com/watch?v=2LFzGTk8scs
+556,556,제주,정우재,26,0,1,483,625,191,40,62,84,48,144,47,50,72,60,76,86,48,DF,FB,Safety,https://www.youtube.com/watch?v=_eJeifOzbsQ&t=101s
+557,557,충남아산,최범경,17,1,2,244,223,40,15,9,26,11,122,16,73,50,29,76,83,33,FW,WF,Unlocker,https://www.youtube.com/watch?v=hV8Cw-Qj5Dg
+558,558,충남아산,이학민,20,2,1,333,433,164,70,78,81,53,153,57,50,53,57,61,84,37,DF,FB,Safety,https://www.youtube.com/watch?v=sp461A3bn0o
+559,559,충남아산,김혜성,9,0,0,69,255,35,11,60,58,12,75,34,40,0,64,78,76,45,MF,CAM,Box crasher,https://www.youtube.com/watch?v=vw_MKeZTwrU
+560,560,충남아산,이재성,20,0,0,5,397,257,20,136,85,26,73,52,27,0,67,83,89,25,DF,CB,Spreader,https://www.youtube.com/watch?v=eYKpT-qgYsw
+561,561,충남아산,박철우,15,1,0,201,274,89,49,56,48,44,110,41,50,34,53,53,77,24,DF,FB,Safety,https://www.youtube.com/watch?v=GgPniuzCbxo
+562,562,충남아산,양정운,2,0,0,22,15,3,2,3,2,7,14,2,67,33,35,80,80,50,FW,WF,Wide Threat,
+563,563,충남아산,김종국,3,0,0,23,90,13,10,16,17,5,28,8,50,0,54,71,75,50,MF,CAM,Box crasher,
+564,564,충남아산,유준수,4,0,0,5,99,34,12,19,19,10,15,10,0,0,64,82,84,33,DF,CB,SCB,
+565,565,충남아산,이호인,17,0,1,49,386,129,10,104,85,28,98,35,0,0,61,69,85,80,DF,CB,SCB,https://www.youtube.com/watch?v=DJeSqknHZNI
+566,566,충남아산,김강국,35,5,3,329,857,128,65,86,142,49,314,67,62,67,55,78,83,26,MF,CDM,Box to Box,https://www.youtube.com/watch?v=Io--KBcaZTw
+567,567,충남아산,이은범,40,0,0,131,806,237,50,276,203,87,184,94,30,38,66,76,87,42,DF,CB,Spreader,https://www.youtube.com/watch?v=ZuOPmC_fvm4
+568,568,충남아산,박세직,40,2,1,367,1036,132,113,145,157,106,388,107,50,63,52,80,80,30,MF,CAM,Box crasher,https://www.youtube.com/watch?v=2WElF4uXF6Y
+569,569,충남아산,박성우,21,0,0,271,366,88,35,91,84,31,129,64,53,30,43,61,81,34,DF,FB,Safety,https://www.youtube.com/watch?v=qhUv8z4fDj8
+570,570,충남아산,강민규,13,2,0,172,106,27,15,12,11,21,75,16,52,15,48,68,66,33,FW,WF,Wide Threat,https://www.youtube.com/watch?v=ymfUBK8pJFk
+571,571,충남아산,정건우,2,0,0,16,19,2,4,0,2,1,9,1,80,67,27,55,69,50,FW,CF,Finisher,
+572,572,충남아산,이승재,2,0,1,23,16,5,7,0,3,1,15,2,60,33,26,69,71,43,FW,WF,Wide Threat,
+573,573,충남아산,김채운,24,0,2,287,397,140,60,92,62,56,133,50,55,41,51,62,79,38,DF,FB,Safety,https://www.youtube.com/watch?v=-uk1sMc345E
+574,574,충남아산,송승민,38,3,4,565,343,43,64,56,45,37,181,78,56,20,42,63,64,28,FW,WF,Outlet,https://www.youtube.com/watch?v=qZ591d3M1FU
+575,575,충남아산,박주원,27,0,1,0,30,649,0,21,109,0,45,3,0,0,0,35,94,0,GK,GK,Swiper goalkeeper,https://www.youtube.com/watch?v=Px2p_LmMbuE
+576,576,충남아산,조주영,6,1,0,74,59,3,12,1,8,4,23,5,35,33,33,67,77,8,FW,CF,Roamer,https://www.youtube.com/watch?v=S52tcA6SbdA
+577,577,충남아산,유강현,33,19,2,354,333,19,39,18,19,20,141,40,59,33,31,66,67,36,FW,CF,Roamer,https://www.youtube.com/watch?v=JkjbK5FrwmI
+578,578,충남아산,박한근,14,0,0,0,9,322,0,17,57,0,29,5,0,0,0,39,95,0,GK,GK,Goalkeeper,https://www.youtube.com/watch?v=Ii5JDKhbJHI
+579,579,충남아산,유동규,3,0,0,30,31,8,4,2,4,4,21,4,33,50,39,67,74,25,FW,WF,Wide Threat,
+580,580,충남아산,배수용,8,0,0,5,132,45,8,64,17,10,21,15,100,0,48,69,87,50,DF,CB,Spreader,https://www.youtube.com/watch?v=lh4I7JZLsSU
+581,581,포항,윤평국,19,0,0,0,2,388,0,18,82,0,18,2,0,0,0,48,100,0,GK,GK,Goalkeeper,https://www.youtube.com/watch?v=PZng5JdvMx0
+582,582,포항,이광혁,10,1,0,120,186,45,16,5,11,11,53,16,65,38,35,88,85,12,FW,WF,Wide Threat,https://www.youtube.com/watch?v=-Nwx-Lew8Rc
+583,583,포항,이수빈,21,0,1,125,912,210,75,38,79,49,180,41,57,56,39,88,87,24,MF,CAM,Creator,https://www.youtube.com/watch?v=vpVXb4_ZJ68
+584,584,포항,박승욱,28,0,2,207,801,491,78,136,109,89,111,87,20,17,52,86,89,42,DF,FB,Progressor,https://www.youtube.com/watch?v=gGC5OEANzYU
+585,585,포항,허용준,21,10,5,194,202,15,28,11,10,11,49,12,54,36,46,72,78,32,FW,CF,Roamer,https://www.youtube.com/watch?v=TQGXEVzj7is
+586,586,포항,모세스,5,1,0,50,58,8,10,7,4,4,20,1,29,20,41,92,76,50,FW,CF,Roamer,https://www.youtube.com/watch?v=4ExtASvV6pI
+587,587,포항,고영준,31,6,4,343,501,82,76,10,36,41,150,44,54,28,25,75,84,24,FW,WF,Wide Threat,https://www.youtube.com/watch?v=WC5jHNrrfkk
+588,588,포항,김용환,9,0,1,118,248,119,28,32,40,26,46,13,0,22,51,77,87,39,DF,FB,Safety,https://www.youtube.com/watch?v=DCEJ22clk9k
+589,589,포항,박찬용,33,0,0,18,802,728,56,239,120,81,80,87,18,0,62,88,94,36,DF,CB,Aggressor,https://www.youtube.com/watch?v=2TP35lzN2mM
+590,590,포항,심상민,26,0,0,295,696,297,55,78,92,32,116,57,50,44,47,74,91,42,DF,FB,Safety,https://www.youtube.com/watch?v=-YIZhxKWWlE
+591,591,포항,이승모,20,1,3,158,674,127,68,53,60,37,112,66,63,50,40,87,83,26,MF,CAM,Box crasher,https://www.youtube.com/watch?v=bCRh83qt6nw
+592,592,포항,이호재,2,1,0,23,29,2,6,5,3,3,9,4,50,0,53,59,76,0,FW,CF,Roamer,
+593,593,포항,김승대,17,6,1,206,208,73,25,3,13,7,75,11,76,0,29,80,84,28,FW,CF,Target,https://www.youtube.com/watch?v=nQ7ghyR6rJ4
+594,594,포항,임상협,31,8,2,302,348,80,43,52,38,32,128,42,74,54,36,88,84,26,FW,WF,Wide Threat,https://www.youtube.com/watch?v=f1Gf3xk7ltc
+595,595,포항,완델손,17,2,1,261,410,138,57,20,43,55,75,33,44,48,44,81,89,46,FW,WF,Unlocker,https://www.youtube.com/watch?v=VZ3H3lyOwKU
+596,596,포항,신광훈,29,0,2,280,893,330,67,87,82,65,174,43,0,40,52,82,87,37,DF,FB,Progressor,https://www.youtube.com/watch?v=V_aPSTqvS2I
+597,597,포항,그랜트,27,2,0,18,675,533,31,217,141,45,81,100,50,50,67,88,91,45,DF,CB,Spreader,https://www.youtube.com/watch?v=-Ejx_QfVXL0
+598,598,포항,신진호,32,4,10,439,1761,458,88,62,141,55,277,63,57,56,52,87,92,39,MF,CAM,Creator,https://www.youtube.com/watch?v=ZuRTyaLq-lI
+599,599,포항,강현무,20,0,0,0,2,575,0,26,86,0,31,6,0,0,0,63,100,0,GK,GK,Goalkeeper,https://www.youtube.com/watch?v=cAqyQ7-Mq0s
+600,600,포항,정재희,23,7,3,302,314,78,36,20,32,19,147,37,58,30,39,73,80,19,FW,WF,Wide Threat,https://www.youtube.com/watch?v=yZTTIShIits
+601,601,안산,이상민95,36,5,2,346,917,195,120,60,98,86,237,90,70,29,45,85,85,36,MF,CAM,Box crasher,https://www.youtube.com/watch?v=8R-bbGLmoXM
+602,602,서울,이상민98,25,1,4,48,1235,657,48,137,129,44,93,75,57,0,58,94,95,35,DF,CB,Aggressor,https://www.youtube.com/watch?v=SKmifq8Kzsw
+603,603,충남아산,이상민99,38,1,0,64,853,292,53,313,200,69,182,136,47,71,63,74,84,36,DF,CB,Spreader,https://www.youtube.com/watch?v=R-VOqNaJuIQ
+604,604,광주,김경민91,40,1,0,24,23,751,4,27,166,3,79,7,78,36,32,57,96,50,GK,GK,Goalkeeper,https://www.youtube.com/watch?v=VTS_JQFOGPQ
+605,605,경남,이민기01,31,1,1,226,700,346,69,140,89,82,152,98,67,38,62,75,91,33,DF,FB,Safety,https://www.youtube.com/watch?v=2jb9kgdIvFU
+606,606,안산,티아고95,12,5,1,140,154,15,15,15,7,8,37,9,61,50,40,71,65,0,FW,WF,Wide Threat,https://www.youtube.com/watch?v=nvd7AXZ2UW0
